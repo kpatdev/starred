@@ -151,6 +151,7 @@
 
 ## Python 
 
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [romainrbr/immich-face-to-album](https://github.com/romainrbr/immich-face-to-album) - Tool allowing to sync Immich's user face to a specific album
 - [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator) - Automatically create and populate albums in Immich from a folder structure in external libraries
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -268,6 +269,7 @@
 
 ## Rust 
 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated scanning tool that bridges media organizers such as Sonarr and Radarr with media servers such as Plex and Jellyfin
 - [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex hubs
 - [shouya/rss-funnel](https://github.com/shouya/rss-funnel) - Self-hosted RSS multi-tool
@@ -276,6 +278,7 @@
 
 ## Shell 
 
+- [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Selective, notifications, autoprune, no pre-pulling.
 - [rcodehub/unraid-plex-script](https://github.com/rcodehub/unraid-plex-script) - A custom user script for Unraid to optionally back up essential Plex data only or a full backup of all Plex data.
 - [Erreur32/nginx-proxy-manager-Bash-API](https://github.com/Erreur32/nginx-proxy-manager-Bash-API) - This BASH script enables the management of Nginx Proxy Manager through its API.
 - [DavidKrGH/BackupScript](https://github.com/DavidKrGH/BackupScript) - Welcome to the Backup Scripts Repository! This small private project aims to provide a set of shell scripts to facilitate the backup process of a folder structure using two powerful tools: Restic and 
@@ -294,6 +297,7 @@
 
 ## TypeScript 
 
+- [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [Willena/immich-tools](https://github.com/Willena/immich-tools) - Collections of command line tools to be used with immich
 - [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 800+ formats
@@ -336,6 +340,7 @@
 
 ## Vue 
 
+- [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [Lynx-Shortener/Lynx](https://github.com/Lynx-Shortener/Lynx) - A fullstack application using the MEVN stack to shorten your URLs.
 - [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
 
