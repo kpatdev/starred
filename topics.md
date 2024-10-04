@@ -674,6 +674,7 @@
 
 ## others 
 
+- [cbrherms/docker-media-scripts](https://github.com/cbrherms/docker-media-scripts) - Dockerised chazlarson/Media-Scripts
 - [dogbutcat/gclone](https://github.com/dogbutcat/gclone) - fork from https://github.com/donwa/gclone
 - [88lex/safire](https://github.com/88lex/safire) - 
 - [saltydk/SARotate](https://github.com/saltydk/SARotate) - 
