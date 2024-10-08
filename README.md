@@ -180,7 +180,7 @@
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [yevbar/lusid](https://github.com/yevbar/lusid) - Self-hosted iMessage client
-- [rdavydov/Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points.
+- [rdavydov/Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2) - [NEW] A simple script that will watch a stream for you and earn the channel points. A successor of Tkd-Alex's original repo.
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [L4stIdi0t/arr-tools](https://github.com/L4stIdi0t/arr-tools) - My collection of tools used to manage my ARR instances
 - [McCloudS/subgen](https://github.com/McCloudS/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, Emby, Tautulli, or Bazarr
