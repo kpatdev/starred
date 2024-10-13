@@ -687,6 +687,7 @@
 
 ## others 
 
+- [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [nwithan8/plex-prerolls](https://github.com/nwithan8/plex-prerolls) - Schedule Plex Pre-Roll listings
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [cbrherms/docker-media-scripts](https://github.com/cbrherms/docker-media-scripts) - Dockerised chazlarson/Media-Scripts
