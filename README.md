@@ -49,6 +49,7 @@
 
 ## C# # 
 
+- [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [saltydk/SARotate](https://github.com/saltydk/SARotate) - 
 - [thomst08/requestrr](https://github.com/thomst08/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Lidarr/Ombi/Overseerr via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quic
@@ -57,6 +58,7 @@
 
 ## C++ 
 
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [mixxxdj/libkeyfinder](https://github.com/mixxxdj/libkeyfinder) - Musical key detection for digital audio, GPL v3
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -68,6 +70,7 @@
 
 ## Dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 
 ## Go 
@@ -195,7 +198,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
-- [yevbar/lusid](https://github.com/yevbar/lusid) - Self-hosted iMessage client
+- [lsd-so/lusid](https://github.com/lsd-so/lusid) - Self-hosted iMessage client
 - [rdavydov/Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2) - [NEW] A simple script that will watch a stream for you and earn the channel points. A successor of Tkd-Alex's original repo.
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [L4stIdi0t/arr-tools](https://github.com/L4stIdi0t/arr-tools) - My collection of tools used to manage my ARR instances
@@ -306,6 +309,7 @@
 
 ## Rust 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Works with Ollama. Llama3.2 control your computer. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated scanning tool that bridges media organizers such as Sonarr and Radarr with media servers such as Plex and Jellyfin
 - [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex hubs
