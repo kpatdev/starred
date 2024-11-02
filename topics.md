@@ -717,7 +717,7 @@
 
 ## openai 
 
-- [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
+- [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -747,6 +747,7 @@
 
 ## others 
 
+- [TheRealAlexV/proxmox-vzbackup-rclone](https://github.com/TheRealAlexV/proxmox-vzbackup-rclone) - This is a vzbackup hook script that backups up your proxmox vm's, container's and pve config's to remote storage using proxmox's native vzbackup tool and rclone.
 - [DerDanilo/proxmox-stuff](https://github.com/DerDanilo/proxmox-stuff) - This is a collection of stuff that I wrote for Proxmox.
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 - [jsavargas/telethon_downloader](https://github.com/jsavargas/telethon_downloader) - 
