@@ -236,7 +236,7 @@
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
 - [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - The only reliable agent framework built on top of the latest OpenAI Assistants API.
-- [AIHawk-app/Auto_Jobs_Applier](https://github.com/AIHawk-app/Auto_Jobs_Applier) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
+- [AIHawk-co/Auto_Jobs_Applier](https://github.com/AIHawk-co/Auto_Jobs_Applier) - Auto_Jobs_Applier by AIHawk is an Agen that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
@@ -318,7 +318,7 @@
 ## Rust 
 
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI for managing *arr servers. Built with 🤎 in Rust
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = AI powered by your 24/7 screen & voice local recording.
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated scanning tool that bridges media organizers such as Sonarr and Radarr with media servers such as Plex and Jellyfin
 - [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex hubs
