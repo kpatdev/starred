@@ -147,7 +147,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [blaisewf/rvc-cli](https://github.com/blaisewf/rvc-cli) - 🚀 RVC + UVR = A perfect set of tools for voice cloning, easily and free!
-- [IAHispano/Applio](https://github.com/IAHispano/Applio) - A simple, high-quality voice conversion tool focused on ease of use and performance
+- [IAHispano/Applio](https://github.com/IAHispano/Applio) - A simple, high-quality voice conversion tool focused on ease of use and performance.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
@@ -993,7 +993,7 @@
 ## pytorch 
 
 - [blaisewf/rvc-cli](https://github.com/blaisewf/rvc-cli) - 🚀 RVC + UVR = A perfect set of tools for voice cloning, easily and free!
-- [IAHispano/Applio](https://github.com/IAHispano/Applio) - A simple, high-quality voice conversion tool focused on ease of use and performance
+- [IAHispano/Applio](https://github.com/IAHispano/Applio) - A simple, high-quality voice conversion tool focused on ease of use and performance.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
