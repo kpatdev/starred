@@ -788,6 +788,8 @@
 
 ## others 
 
+- [pgale/lineage_15.1_Installation_TSV](https://github.com/pgale/lineage_15.1_Installation_TSV) - Lenovo ThinkSmart View Lineage 15.1 installation guide
+- [ds2000/homeassistant-fe-tesla](https://github.com/ds2000/homeassistant-fe-tesla) - Tesla FrontEnd for Home Assistant
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [TheCaptain989/radarr-striptracks](https://github.com/TheCaptain989/radarr-striptracks) - A Docker Mod to Radarr/Sonarr to automatically remove unwanted audio and subtitle tracks
 - [mbecker20/komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
