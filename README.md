@@ -307,7 +307,7 @@
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [dotmet/chatgpt_webui](https://github.com/dotmet/chatgpt_webui) - Build a WebUI of ChatGPT with multiple authentication methods using Gradio and revChatGPT
 - [mahfoozm/CoverGPT](https://github.com/mahfoozm/CoverGPT) - Generate a personalized and formatted cover letter for a given job position, using your resume to add personalized details.
-- [paulotruta/alexa-skill-llm-intent](https://github.com/paulotruta/alexa-skill-llm-intent) - An Alexa Skill template to easily create a skill that proxies requests to an LLM and reads back the response.
+- [paulotruta/alexa-skill-llm-intent](https://github.com/paulotruta/alexa-skill-llm-intent) - Alexa Skill that provides turn based conversations with an AI LLM. Bringing AI to your Alexa, because Amazon doesn't.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [mukulpatnaik/researchgpt](https://github.com/mukulpatnaik/researchgpt) - A LLM based research assistant that allows you to have a conversation with a research paper
 - [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
