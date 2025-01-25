@@ -373,6 +373,7 @@
 
 ## Swift 
 
+- [mikker/LeaderKey.app](https://github.com/mikker/LeaderKey.app) - Faster than your launcher
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 
 ## Text 
