@@ -1068,12 +1068,12 @@
 
 ## self-hosted 
 
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
