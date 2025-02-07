@@ -190,6 +190,7 @@
 
 ## Python 
 
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - A Personal NotebookLM and Perplexity-like AI Assistant for Everyone. Research and Never forget Anything.
 - [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
@@ -203,7 +204,6 @@
 - [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [nwithan8/plex-prerolls](https://github.com/nwithan8/plex-prerolls) - Schedule Plex Pre-Roll listings
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [jamess60/containercleaner](https://github.com/jamess60/containercleaner) - ContainerCleaner is a tool for automatically updating compose file containers/images and removing unsed images.
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
