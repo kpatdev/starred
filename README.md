@@ -12,6 +12,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Dart](#dart)
+- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -73,6 +74,10 @@
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
+## Dockerfile 
+
+- [wishthis/docker](https://github.com/wishthis/docker) - wishthis - Official docker image
+
 ## Go 
 
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
@@ -104,6 +109,7 @@
 
 ## JavaScript 
 
+- [wishthis/wishthis](https://github.com/wishthis/wishthis) - wishthis is a simple, intuitive and modern wishlist platform to create, manage and view your wishes for any kind of occasion.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -336,6 +342,7 @@
 
 ## Ruby 
 
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [wheresfrank/voterr](https://github.com/wheresfrank/voterr) - Voting through your Plex movies to watch with your friends
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [tomMoulard/make-my-server](https://github.com/tomMoulard/make-my-server) - Docker Compose with Traefik and lots of services
@@ -397,6 +404,7 @@
 
 ## TypeScript 
 
+- [Wingysam/Christmas-Community](https://github.com/Wingysam/Christmas-Community) - Christmas lists for families
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
 - [dendianugerah/velld](https://github.com/dendianugerah/velld) - a database backup management and automation tool
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
