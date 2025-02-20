@@ -18,6 +18,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Logos](#logos)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -110,6 +111,7 @@
 
 ## JavaScript 
 
+- [youngcw/actualplaid](https://github.com/youngcw/actualplaid) - Sync your Bank accounts to Actual Budget (unofficial support)
 - [wishthis/wishthis](https://github.com/wishthis/wishthis) - wishthis is a simple, intuitive and modern wishlist platform to create, manage and view your wishes for any kind of occasion.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama and all OpenAI API compatible Services to automatically analyze and tag your documents.
@@ -142,6 +144,10 @@
 - [daveebbelaar/langchain-experiments](https://github.com/daveebbelaar/langchain-experiments) - Building Apps with LLMs
 - [xiaowuc2/ChatGPT-Python-Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - ChatGPT Python Applications integrated with third party libraries and modules
 - [charlbbbbb/CDL-Stats](https://github.com/charlbbbbb/CDL-Stats) - An AIO for CDL statistics including a web scraper, data visualisation tools and machine learning models
+
+## Kotlin 
+
+- [dvankley/firefly-plaid-connector-2](https://github.com/dvankley/firefly-plaid-connector-2) - Connector to pull Plaid financial data into the Firefly finance tool
 
 ## Logos 
 
@@ -370,6 +376,8 @@
 
 ## Shell 
 
+- [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
+- [ayufan/pve-backup-server-dockerfiles](https://github.com/ayufan/pve-backup-server-dockerfiles) - Unofficial, and unmaintained build of proxmox-backup-server
 - [007revad/Linux_Plex_Backup](https://github.com/007revad/Linux_Plex_Backup) - This is a bash script to backup Linux Plex Media Server settings and database, and log the results.
 - [Cirius1792/docker-volume-backup-script](https://github.com/Cirius1792/docker-volume-backup-script) - Simple yet effective bash script to automatically manage backup of docker volumes
 - [SierraSoftworks/tailscale-udm](https://github.com/SierraSoftworks/tailscale-udm) - Run Tailscale on your Unifi Dream Machine
@@ -411,6 +419,7 @@
 
 ## TypeScript 
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [Wingysam/Christmas-Community](https://github.com/Wingysam/Christmas-Community) - Christmas lists for families
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
 - [dendianugerah/velld](https://github.com/dendianugerah/velld) - a database backup management and automation tool
@@ -460,7 +469,7 @@
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
 - [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ChatGPT raycast extension
-- [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI chatbot for large PDF docs
+- [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI agent chatbot large PDF docs
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 
 ## Vue 
@@ -474,5 +483,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [patelmail](https://github.com/patelmail) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [kpatdev](https://github.com/kpatdev) has waived all copyright and related or neighboring rights to this work.
 
