@@ -17,6 +17,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Logos](#logos)
@@ -133,6 +134,10 @@
 - [lpg0/plaid-transaction-script](https://github.com/lpg0/plaid-transaction-script) - Automate bank transaction data using the Plaid API into Google Sheets
 - [williamlmao/plaid-to-gsheets](https://github.com/williamlmao/plaid-to-gsheets) - Automate a personal finance dashboard using the Plaid API, Google Sheets, and Data Studio. Build transformation rules to categorize everything to your liking. Easily add data from non-plaid sources. T
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+
+## Jinja 
+
+- [selfhostx/ansible](https://github.com/selfhostx/ansible) - collection of ansible roles and playbooks to enable self-hosters full control of their infrastructure
 
 ## Jupyter Notebook 
 
