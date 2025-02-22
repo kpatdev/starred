@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [algorithmic-trading](#algorithmic-trading)
 - [analytics](#analytics)
+- [ansible](#ansible)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
@@ -199,6 +200,10 @@
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [devopsgroup-io/moai](https://github.com/devopsgroup-io/moai) - :moyai: Pharma and healthcare competitive intelligence through product website FDA OPDP update frequency.
+
+## ansible 
+
+- [selfhostx/ansible](https://github.com/selfhostx/ansible) - collection of ansible roles and playbooks to enable self-hosters full control of their infrastructure
 
 ## api 
 
