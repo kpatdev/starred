@@ -181,7 +181,7 @@
 ## Nix 
 
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with stater templates!)
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with starter templates!)
 
 ## Objective-C 
 
@@ -245,6 +245,8 @@
 
 ## Python 
 
+- [ViffyGwaanl/perplexica-pipe](https://github.com/ViffyGwaanl/perplexica-pipe) - Using the Perplexica search API's "pipe" feature, taking inspiration from atgehrhardt's Live Search project.
+- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) - A middleware to provide an openAI compatible endpoint that can call MCP tools
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) - 
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
@@ -500,7 +502,7 @@
 
 - [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
-- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Collection of handy online tools for everyone
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
