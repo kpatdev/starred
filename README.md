@@ -114,7 +114,6 @@
 
 ## HTML 
 
-- [leikoilja/LibreChat-UI](https://github.com/leikoilja/LibreChat-UI) - Cross-platform desktop app wrapper for self-hosted LibreChat
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports expiry notifications, transaction histories, file uploads and OIDC SSO.
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
@@ -131,6 +130,7 @@
 - [RobertParesi/MonarchMoneyTrendReport](https://github.com/RobertParesi/MonarchMoneyTrendReport) - Monarch Money Tweaks
 - [sb2702/free-ai-video-upscaler](https://github.com/sb2702/free-ai-video-upscaler) - Source code for free AI video upscaler tool
 - [JonathanChavezTamales/LLMStats](https://github.com/JonathanChavezTamales/LLMStats) - A comprehensive set of LLM benchmark scores and provider prices.
+- [leikoilja/LibreChat-UI](https://github.com/leikoilja/LibreChat-UI) - Cross-platform desktop app wrapper for self-hosted LibreChat
 - [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real-time communication
 - [ehmicky/unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
