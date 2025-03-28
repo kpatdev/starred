@@ -76,7 +76,7 @@
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [mixxxdj/libkeyfinder](https://github.com/mixxxdj/libkeyfinder) - Musical key detection for digital audio, GPL v3
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
@@ -189,7 +189,7 @@
 
 ## Nix 
 
-- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
+- [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - nix modules for darwin
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with starter templates!)
 
 ## Objective-C 
@@ -255,6 +255,12 @@
 
 ## Python 
 
+- [roryeckel/wyoming_openai](https://github.com/roryeckel/wyoming_openai) - OpenAI-Compatible Proxy Middleware for the Wyoming Protocol
+- [rhasspy/wyoming-openwakeword](https://github.com/rhasspy/wyoming-openwakeword) - Wyoming protocol server for openWakeWord wake word detection system
+- [dalehumby/openWakeWord-rhasspy](https://github.com/dalehumby/openWakeWord-rhasspy) - openWakeWord for Rhasspy
+- [paulbertoli94/extended_openai_conversation](https://github.com/paulbertoli94/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
+- [davidohne/ha_whisper-api_stt](https://github.com/davidohne/ha_whisper-api_stt) - Home Assistant Whisper API SST integration
+- [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
 - [Neoncat-OG/TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - 
 - [luigi311/JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched) - Sync watched between jellyfin and plex locally
 - [gorgarp/Recommender](https://github.com/gorgarp/Recommender) - A standalone AI-powered application designed to learn your viewing preferences on your Plex server and provide personalized recommendations on what to watch.
