@@ -161,6 +161,7 @@
 
 ## ai 
 
+- [open-webui/openapi-servers](https://github.com/open-webui/openapi-servers) - OpenAPI Tool Servers
 - [gorgarp/Recommender](https://github.com/gorgarp/Recommender) - A standalone AI-powered application designed to learn your viewing preferences on your Plex server and provide personalized recommendations on what to watch.
 - [octrow/ollama-rename-files](https://github.com/octrow/ollama-rename-files) - Effortlessly rename files using local AI - No tokens, No API. Based on Ollama.
 - [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
@@ -1068,6 +1069,8 @@
 
 ## others 
 
+- [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [rhasspy/wyoming-openwakeword](https://github.com/rhasspy/wyoming-openwakeword) - Wyoming protocol server for openWakeWord wake word detection system
 - [paulbertoli94/extended_openai_conversation](https://github.com/paulbertoli94/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
 - [davidohne/ha_whisper-api_stt](https://github.com/davidohne/ha_whisper-api_stt) - Home Assistant Whisper API SST integration
