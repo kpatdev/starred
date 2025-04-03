@@ -127,6 +127,7 @@
 
 ## JavaScript 
 
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [RobertParesi/MonarchMoneyTrendReport](https://github.com/RobertParesi/MonarchMoneyTrendReport) - Monarch Money Tweaks
 - [sb2702/free-ai-video-upscaler](https://github.com/sb2702/free-ai-video-upscaler) - Source code for free AI video upscaler tool
 - [JonathanChavezTamales/LLMStats](https://github.com/JonathanChavezTamales/LLMStats) - A comprehensive set of LLM benchmark scores and provider prices.
@@ -254,6 +255,8 @@
 
 ## Python 
 
+- [open-webui/openapi-servers](https://github.com/open-webui/openapi-servers) - OpenAPI Tool Servers
+- [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [roryeckel/wyoming_openai](https://github.com/roryeckel/wyoming_openai) - OpenAI-Compatible Proxy Middleware for the Wyoming Protocol
 - [rhasspy/wyoming-openwakeword](https://github.com/rhasspy/wyoming-openwakeword) - Wyoming protocol server for openWakeWord wake word detection system
 - [dalehumby/openWakeWord-rhasspy](https://github.com/dalehumby/openWakeWord-rhasspy) - openWakeWord for Rhasspy
