@@ -1240,7 +1240,7 @@
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
 - [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
 - [NotYourGuy/pdf_renamer](https://github.com/NotYourGuy/pdf_renamer) - Python script that renames PDF files by OCR scanning the file
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Workflow automation with 280+ MCP servers (MCP tools) • AI automation & workflow automation platform + hundreds of MCP servers for AI • [n8n alternative - MIT-licensed n8n]
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI agents & MCPs & workflow automation • (280+ MCP servers for AI agents) • AI automation with MCPs • No-code AI agents with MCPs • AI workflows
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [TobbleCobble/reddit-video-maker](https://github.com/TobbleCobble/reddit-video-maker) - makes TikTok style videos based on reddit posts and comments automatically
 - [BinsonBuzz/unraid_rclone_mount](https://github.com/BinsonBuzz/unraid_rclone_mount) - scripts to create rclone mounts on gdrive
