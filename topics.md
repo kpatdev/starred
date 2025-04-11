@@ -43,6 +43,7 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [development](#development)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -170,7 +171,7 @@
 - [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) - A middleware to provide an openAI compatible endpoint that can call MCP tools
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build Reasoning Agents with memory, knowledge, tools and native multi-modal support.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
@@ -544,6 +545,12 @@
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 
+## development 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [alexdredmon/arcode](https://github.com/alexdredmon/arcode) - 🕹️ AI development tool
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
 ## devops 
 
 - [therealthingy/my_iac](https://github.com/therealthingy/my_iac) - Ansible playbooks for automating system setup
@@ -568,7 +575,6 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) - 
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
@@ -644,7 +650,7 @@
 
 ## framework 
 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build Reasoning Agents with memory, knowledge, tools and native multi-modal support.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -983,7 +989,6 @@
 ## node 
 
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## nodejs 
 
@@ -1075,7 +1080,7 @@
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
 - [Neoncat-OG/TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - 
 - [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
-- [luigi311/JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched) - Sync watched between jellyfin and plex locally
+- [luigi311/JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched) - Sync watched status between jellyfin, plex and emby locally
 - [netplexflix/Movie-Recommendations-for-Plex](https://github.com/netplexflix/Movie-Recommendations-for-Plex) - Analyzes your Plex Movie watch history and recommends unwatched movies to watch on Plex, and movies to add to Radarr. Optionally labels them and adds them to Radarr.
 - [kpatdev/coolnight](https://github.com/kpatdev/coolnight) - This is a beautiful dark theme for VS Code and Warp inspired by Aura and originally made by Josean.
 - [BlueBubblesApp/bluebubbles-n8n-node](https://github.com/BlueBubblesApp/bluebubbles-n8n-node) - A node/integration with the automation workflow manager, n8n: https://n8n.io
@@ -1240,7 +1245,7 @@
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
 - [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
 - [NotYourGuy/pdf_renamer](https://github.com/NotYourGuy/pdf_renamer) - Python script that renames PDF files by OCR scanning the file
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI agents & MCPs & workflow automation • (280+ MCP servers for AI agents) • AI automation with MCPs • No-code AI agents with MCPs • AI workflows
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [TobbleCobble/reddit-video-maker](https://github.com/TobbleCobble/reddit-video-maker) - makes TikTok style videos based on reddit posts and comments automatically
 - [BinsonBuzz/unraid_rclone_mount](https://github.com/BinsonBuzz/unraid_rclone_mount) - scripts to create rclone mounts on gdrive
@@ -1297,7 +1302,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build Reasoning Agents with memory, knowledge, tools and native multi-modal support.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real-time communication
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
