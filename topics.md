@@ -1082,7 +1082,6 @@
 ## others 
 
 - [hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors](https://github.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors) - 
-- [rylefisher/Pulovers-Macro-Creator-for-AHKv2](https://github.com/rylefisher/Pulovers-Macro-Creator-for-AHKv2) - A modified version of Pulover's Macro Recorder for AHKv2
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [rhasspy/wyoming-openwakeword](https://github.com/rhasspy/wyoming-openwakeword) - Wyoming protocol server for openWakeWord wake word detection system
