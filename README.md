@@ -48,7 +48,6 @@
 
 ## AutoHotkey 
 
-- [rylefisher/Pulovers-Macro-Creator-for-AHKv2](https://github.com/rylefisher/Pulovers-Macro-Creator-for-AHKv2) - A modified version of Pulover's Macro Recorder for AHKv2
 - [andyfeili/osrsBottedtoMax_SimbaScripts](https://github.com/andyfeili/osrsBottedtoMax_SimbaScripts) - 
 
 ## Batchfile 
