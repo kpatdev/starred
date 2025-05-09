@@ -128,6 +128,7 @@
 
 ## JavaScript 
 
+- [Cirx08/WeddingShare](https://github.com/Cirx08/WeddingShare) - A place for guests to view and drop pictures of the big day
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [RobertParesi/MonarchMoneyTrendReport](https://github.com/RobertParesi/MonarchMoneyTrendReport) - Monarch Money Tweaks
 - [sb2702/free-ai-video-upscaler](https://github.com/sb2702/free-ai-video-upscaler) - Source code for free AI video upscaler tool
