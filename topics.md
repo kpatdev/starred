@@ -1095,7 +1095,7 @@
 - [davidohne/ha_whisper-api_stt](https://github.com/davidohne/ha_whisper-api_stt) - Home Assistant Whisper API SST integration
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
 - [Neoncat-OG/TrollStore-IPAs](https://github.com/Neoncat-OG/TrollStore-IPAs) - 
-- [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
+- [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Automatically detect and skip intro/credit sequences in Jellyfin
 - [luigi311/JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched) - Sync watched status between jellyfin, plex and emby locally
 - [netplexflix/Movie-Recommendations-for-Plex](https://github.com/netplexflix/Movie-Recommendations-for-Plex) - Analyzes your Plex Movie watch history and recommends unwatched movies to watch on Plex, and movies to add to Radarr. Optionally labels them and adds them to Radarr.
 - [kpatdev/coolnight](https://github.com/kpatdev/coolnight) - This is a beautiful dark theme for VS Code and Warp inspired by Aura and originally made by Josean.
