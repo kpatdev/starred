@@ -185,6 +185,7 @@
 
 ## Logos 
 
+- [driftywinds/YTLitePlus](https://github.com/driftywinds/YTLitePlus) - A modified version of Youtube for iOS supercharged with YTLite (by @dayanch96) and +20 tweaks
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 
 ## MDX 
