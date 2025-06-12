@@ -383,7 +383,7 @@
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [alexdredmon/arcode](https://github.com/alexdredmon/arcode) - 🕹️ AI development tool
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [GilgameshofUT/AIResearcher](https://github.com/GilgameshofUT/AIResearcher) - 
 - [SamurAIGPT/AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) - A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.
 - [InsertDisc/pattrmm](https://github.com/InsertDisc/pattrmm) - Plex Meta Manager helper script for a chronological Returning Soon collection with dates.
@@ -561,7 +561,7 @@
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
 - [dendianugerah/velld](https://github.com/dendianugerah/velld) - a database backup management and automation tool
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [beastx-ro/first2apply](https://github.com/beastx-ro/first2apply) - 
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
