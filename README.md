@@ -427,7 +427,6 @@
 - [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 - [PharmGKB/interns](https://github.com/PharmGKB/interns) - 
 - [avrabyt/MemoryBot](https://github.com/avrabyt/MemoryBot) - A chatbot 🤖 which remembers 🧠 using 🦜 LangChain  🔗 OpenAI | Streamlit | DataButton
-- [Nilzkool/ds_assistant](https://github.com/Nilzkool/ds_assistant) - 
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [skrashevich/ha_chatgpt](https://github.com/skrashevich/ha_chatgpt) - ChatGPT Conversation for Home Assistant
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
