@@ -1112,6 +1112,7 @@
 
 ## others 
 
+- [Ipmake/Nevu](https://github.com/Ipmake/Nevu) - Nevu is a complete redesign of Plex's UI using the plex media server API.
 - [2Shad/OCI-Idle-Avoidance](https://github.com/2Shad/OCI-Idle-Avoidance) - A set of scripts designed to maintain a minimum level of CPU usage on Oracle Cloud VMs, preventing them from being reclaimed due to idling. Ideal for environments with fluctuating resource demands.
 - [driftywinds/YTLitePlus](https://github.com/driftywinds/YTLitePlus) - A modified version of Youtube for iOS supercharged with YTLite (by @dayanch96) and +20 tweaks
 - [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and optionally replaces the files via sonarr and radarr
