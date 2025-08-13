@@ -1113,6 +1113,7 @@
 
 ## others 
 
+- [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native mobile client for Open‑WebUI. Chat with your self‑hosted AI.
 - [jl94x4/ColleXions](https://github.com/jl94x4/ColleXions) - ColleXions automates the process of pinning collections to your Plex home screen, making it easier to showcase your favorite content. With customizable features, it enhances your Plex experience by dy
 - [ButtaJones/recently-added-nf-overlay-for-kometa](https://github.com/ButtaJones/recently-added-nf-overlay-for-kometa) - Netflix-style "Recently Added" overlay for Kometa/Plex - automatically badges new media for 20 days
 - [Ipmake/NevuForPlex](https://github.com/Ipmake/NevuForPlex) - Nevu is a complete redesign of Plex's UI using the plex media server API.
