@@ -213,6 +213,7 @@
 
 ## Others 
 
+- [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [ButtaJones/recently-added-nf-overlay-for-kometa](https://github.com/ButtaJones/recently-added-nf-overlay-for-kometa) - Netflix-style "Recently Added" overlay for Kometa/Plex - automatically badges new media for 20 days
 - [hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors](https://github.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors) - 
 - [kpatdev/coolnight](https://github.com/kpatdev/coolnight) - This is a beautiful dark theme for VS Code and Warp inspired by Aura and originally made by Josean.
@@ -272,6 +273,8 @@
 
 ## Python 
 
+- [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
+- [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr) - Telegram bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
 - [co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) - Browse the web, directly from Cursor etc.
@@ -564,6 +567,7 @@
 
 ## TypeScript 
 
+- [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [Ipmake/NevuForPlex](https://github.com/Ipmake/NevuForPlex) - Nevu is a complete redesign of Plex's UI using the plex media server API.
