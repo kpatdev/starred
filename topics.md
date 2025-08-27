@@ -1145,6 +1145,8 @@
 
 ## others 
 
+- [agregarr/agregarr](https://github.com/agregarr/agregarr) - Home/Collection manager for Plex
+- [netplexflix/MKV-Undefined-Audio-Language-Detector](https://github.com/netplexflix/MKV-Undefined-Audio-Language-Detector) - Checks .mkv video files in a given directory for undefined audio tracks, uses OpenAI's Whisper to detect the audio language and tags the track accordingly. Can Remux to .mkv if needed.
 - [hugeBlack/OpenParsec](https://github.com/hugeBlack/OpenParsec) - An open-source Parsec client for iOS/iPadOS. This repo implements mouse & keyboard & touch screen support.
 - [lduesing/backup-suite](https://github.com/lduesing/backup-suite) - a simple, modular backup solution for selfhosted services.
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
