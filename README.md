@@ -274,6 +274,7 @@
 
 ## Python 
 
+- [spotizerr-dev/spotizerr](https://github.com/spotizerr-dev/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
 - [netplexflix/MKV-Undefined-Audio-Language-Detector](https://github.com/netplexflix/MKV-Undefined-Audio-Language-Detector) - Checks .mkv video files in a given directory for undefined audio tracks, uses OpenAI's Whisper to detect the audio language and tags the track accordingly. Can Remux to .mkv if needed.
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr) - Telegram bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd
