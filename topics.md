@@ -1165,7 +1165,6 @@
 - [shommey/dockerized-quartz](https://github.com/shommey/dockerized-quartz) - 
 - [l4rm4nd/Obsidian-Gitsync-Perlite](https://github.com/l4rm4nd/Obsidian-Gitsync-Perlite) - Docker container to continuously sync Obsidian markdown notes from GitHub and publish it for the webs
 - [jhofker/obsidian-hoarder](https://github.com/jhofker/obsidian-hoarder) - An Obsidian.md community plugin that allows syncing with hoarder.app
-- [spotizerr-dev/spotizerr](https://github.com/spotizerr-dev/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Home/Collection manager for Plex
 - [netplexflix/MKV-Undefined-Audio-Language-Detector](https://github.com/netplexflix/MKV-Undefined-Audio-Language-Detector) - Checks .mkv video files in a given directory for undefined audio tracks, uses OpenAI's Whisper to detect the audio language and tags the track accordingly. Can Remux to .mkv if needed.
 - [hugeBlack/OpenParsec](https://github.com/hugeBlack/OpenParsec) - An open-source Parsec client for iOS/iPadOS. This repo implements mouse & keyboard & touch screen support.
