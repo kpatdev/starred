@@ -1202,6 +1202,8 @@
 
 ## others 
 
+- [keithah/tessie-mcp](https://github.com/keithah/tessie-mcp) - 🚗 Tessie MCP Extension for Claude Desktop - Query your Tesla vehicle data using natural language
+- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [keithah/monarchmoney-enhanced](https://github.com/keithah/monarchmoney-enhanced) - Python API for Monarch Money
 - [hammem/monarchmoney](https://github.com/hammem/monarchmoney) - Python API for Monarch Money
 - [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
