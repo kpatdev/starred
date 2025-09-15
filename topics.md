@@ -210,7 +210,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our 
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -380,11 +380,11 @@
 
 ## aws 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 
 ## azure 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 
 ## backend 
 
@@ -441,7 +441,7 @@
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
@@ -785,7 +785,7 @@
 
 ## google 
 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [lpg0/plaid-transaction-script](https://github.com/lpg0/plaid-transaction-script) - Automate bank transaction data using the Plaid API into Google Sheets
 - [yassenshopov/notion-gcal-sync](https://github.com/yassenshopov/notion-gcal-sync) - A Python script to automate the syncing of tasks between Google Calendar and the all-in-one productivity workspace, Notion. It utilizes API and is customizable for your own needs. Free to use.
 
@@ -1171,7 +1171,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [emcf/thepipe](https://github.com/emcf/thepipe) - Get clean data from tricky documents, powered by vision-language models ⚡
@@ -1202,6 +1202,9 @@
 
 ## others 
 
+- [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - ProxMenux An Interactive Menu for Proxmox VE Management
+- [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
+- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [keithah/tessie-mcp](https://github.com/keithah/tessie-mcp) - 🚗 Tessie MCP Extension for Claude Desktop - Query your Tesla vehicle data using natural language
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [keithah/monarchmoney-enhanced](https://github.com/keithah/monarchmoney-enhanced) - Python API for Monarch Money
@@ -1623,6 +1626,7 @@
 
 ## self-hosted 
 
+- [JoTec2002/InstagramToMealie](https://github.com/JoTec2002/InstagramToMealie) - A simple little converter, that imports an instagram URL into mealie
 - [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open source, self-hostable warranty tracker to monitor expirations, store receipts, files. You own the data, your rules!
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - 🚀 Modern self-hosted uptime monitoring solution - Monitor websites, APIs, and services with real-time notifications, beautiful status pages, and comprehensive analytics. Built with Go, React.
