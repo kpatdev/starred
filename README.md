@@ -152,7 +152,7 @@
 
 - [keithah/tessie-mcp](https://github.com/keithah/tessie-mcp) - 🚗 Tessie MCP Extension for Claude Desktop - Query your Tesla vehicle data using natural language
 - [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open source, self-hostable warranty tracker to monitor expirations, store receipts, files. You own the data, your rules!
-- [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A jellyfin plugin to enhance your Jellyfin Web experience.
+- [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience.
 - [Emmanuel-Rods/SnapBot](https://github.com/Emmanuel-Rods/SnapBot) - SnapBot is an automation tool designed to help maintain Snap Streaks effortlessly. It logs into Snapchat, captures snaps with custom captions, and sends them to your best friends or groups, all throug
 - [Cirx08/WeddingShare](https://github.com/Cirx08/WeddingShare) - A place for guests to view and drop pictures of the big day
 - [RobertParesi/MonarchMoneyTrendReport](https://github.com/RobertParesi/MonarchMoneyTrendReport) - Monarch Money Tweaks
@@ -188,6 +188,7 @@
 
 ## Jinja 
 
+- [superlinear-ai/substrate](https://github.com/superlinear-ai/substrate) - 🌱 Substrate is a modern Copier template for scaffolding Python packages and apps
 - [therealthingy/my_iac](https://github.com/therealthingy/my_iac) - Ansible playbooks for automating system setup
 - [selfhostx/ansible](https://github.com/selfhostx/ansible) - collection of ansible roles and playbooks to enable self-hosters full control of their infrastructure
 
@@ -222,7 +223,7 @@
 ## Nix 
 
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS or NixOS w/ step-by-step instructions
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 
 ## Objective-C 
 
@@ -293,6 +294,8 @@
 
 ## Python 
 
+- [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
+- [wyattferguson/pattern](https://github.com/wyattferguson/pattern) - Pattern - A modern, opinionated, cookiecutter template for your next Python project.
 - [JoTec2002/InstagramToMealie](https://github.com/JoTec2002/InstagramToMealie) - A simple little converter, that imports an instagram URL into mealie
 - [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
 - [keithah/monarchmoney-enhanced](https://github.com/keithah/monarchmoney-enhanced) - Python API for Monarch Money
@@ -536,8 +539,9 @@
 
 ## Shell 
 
+- [infiniteremote/installer](https://github.com/infiniteremote/installer) - Infinite Remote Installer, installs RustDesk Server and Opensource API Server, (Get an addressbook etc for free)  a True Free and OSS alternative to TeamViewer, AnyDesk etc
 - [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - ProxMenux An Interactive Menu for Proxmox VE Management
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
+- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [almir/docker-webhook](https://github.com/almir/docker-webhook) - Dockerized https://github.com/adnanh/webhook
 - [gardengim/keepwsl](https://github.com/gardengim/keepwsl) - A simple service to keep WSL alive
 - [sirjmann92/nicotineplus-proper](https://github.com/sirjmann92/nicotineplus-proper) - Nicotine+ as a WebUI in a Docker container
@@ -604,6 +608,7 @@
 
 ## TypeScript 
 
+- [PaulHatch/semantic-version](https://github.com/PaulHatch/semantic-version) - A GitHub Action to generate semantic version from a git repository's commit history.
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [miikkaylisiurunen/raycast-ai-openrouter-proxy](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy) - Integrate any OpenAI-compatible API with Raycast AI
 - [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
