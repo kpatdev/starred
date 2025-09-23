@@ -226,6 +226,7 @@
 
 ## Objective-C 
 
+- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 - [nickzman/symboliclinker](https://github.com/nickzman/symboliclinker) - A contextual menu plugin & service for macOS that allows users to make symbolic links in the Finder
 
 ## Others 
@@ -295,10 +296,12 @@
 
 ## Python 
 
+- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your 
+- [assafelovic/gptr-mcp](https://github.com/assafelovic/gptr-mcp) - MCP server for enabling LLM applications to perform deep research via the MCP protocol
 - [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend - Supports any OpenAI compatible API (Ollama, xAI, Gemini, OpenRouter and more)
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
-- [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) - Private, fast, and honest web browser based on Chromium
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
 - [wyattferguson/pattern](https://github.com/wyattferguson/pattern) - Pattern - A modern, opinionated, cookiecutter template for your next Python project.
@@ -313,7 +316,6 @@
 - [netplexflix/MKV-Undefined-Audio-Language-Detector](https://github.com/netplexflix/MKV-Undefined-Audio-Language-Detector) - Checks .mkv video files in a given directory for undefined audio tracks, uses OpenAI's Whisper to detect the audio language and tags the track accordingly. Can Remux to .mkv if needed.
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr) - Telegram bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
 - [co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) - Browse the web, directly from Cursor etc.
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
@@ -572,6 +574,7 @@
 - [gardengim/keepwsl](https://github.com/gardengim/keepwsl) - A simple service to keep WSL alive
 - [sirjmann92/nicotineplus-proper](https://github.com/sirjmann92/nicotineplus-proper) - Nicotine+ as a WebUI in a Docker container
 - [shommey/dockerized-quartz](https://github.com/shommey/dockerized-quartz) - 
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [lduesing/backup-suite](https://github.com/lduesing/backup-suite) - a simple, modular backup solution for selfhosted services.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [2Shad/OCI-Idle-Avoidance](https://github.com/2Shad/OCI-Idle-Avoidance) - A set of scripts designed to maintain a minimum level of CPU usage on Oracle Cloud VMs, preventing them from being reclaimed due to idling. Ideal for environments with fluctuating resource demands.
@@ -619,6 +622,7 @@
 
 ## Swift 
 
+- [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
 - [scouzi1966/maclocal-api](https://github.com/scouzi1966/maclocal-api) - 'afm' command cli: macOS server and single prompt mode that exposes Apple's Foundation Models through OpenAI-compatible API endpoints. Supports Apple Vision and single command (non-server) inference w
 - [hugeBlack/OpenParsec](https://github.com/hugeBlack/OpenParsec) - An open-source Parsec client for iOS/iPadOS. This repo implements mouse & keyboard & touch screen support.
