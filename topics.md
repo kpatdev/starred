@@ -213,7 +213,7 @@
 - [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) - A middleware to provide an openAI compatible endpoint that can call MCP tools
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
-- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance SDK and runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -664,7 +664,7 @@
 
 ## developer-tools 
 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance SDK and runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -803,7 +803,7 @@
 
 ## framework 
 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance SDK and runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -879,6 +879,7 @@
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
+- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance SDK and runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [artis3n/ansible-role-tailscale](https://github.com/artis3n/ansible-role-tailscale) - Ansible role to install and configure a Tailscale node.
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
@@ -888,6 +889,7 @@
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [Wingysam/Christmas-Community](https://github.com/Wingysam/Christmas-Community) - Christmas lists for families
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our 
 - [catppuccin/tmux](https://github.com/catppuccin/tmux) - 💽 Soothing pastel theme for Tmux
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
@@ -1261,6 +1263,7 @@
 
 ## openai 
 
+- [CaddyGlow/ccproxy-api](https://github.com/CaddyGlow/ccproxy-api) - is a local reverse proxy providing unified access to multiple AI providers (Claude, Codex) through a single interface, using your existing subscriptions without API key billing.
 - [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - Access OpenAI models programmatically through your ChatGPT subscription.
 - [GewoonJaap/gemini-cli-openai](https://github.com/GewoonJaap/gemini-cli-openai) - Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers
 - [GewoonJaap/codex-openai-wrapper](https://github.com/GewoonJaap/codex-openai-wrapper) - Wrap OpenAI's Codex to an OpenAI compatible endpoint using Cloudflare Workers
@@ -1273,6 +1276,7 @@
 - [katanemo/archgw](https://github.com/katanemo/archgw) - The smart edge and AI gateway for agents. Arch is a high-performance proxy server that handles the low-level work in building agents: like applying guardrails, routing prompts to the right agent, and 
 - [roryeckel/wyoming_openai](https://github.com/roryeckel/wyoming_openai) - OpenAI-Compatible Proxy Middleware for the Wyoming Protocol
 - [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [win4r/GraphRAG4OpenWebUI](https://github.com/win4r/GraphRAG4OpenWebUI) - GraphRAG4OpenWebUI integrates Microsoft's GraphRAG technology into Open WebUI, providing a versatile information retrieval API. It combines local, global, and web searches for advanced Q&A systems and
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
@@ -1319,6 +1323,10 @@
 
 ## others 
 
+- [mirrorange/clove](https://github.com/mirrorange/clove) - A Claude.ai reverse proxy
+- [Maol-1997/cursor-claude-connector](https://github.com/Maol-1997/cursor-claude-connector) - Cursor with claude's subscription
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [coleam00/mcp-crawl4ai-rag](https://github.com/coleam00/mcp-crawl4ai-rag) - Web Crawling and RAG Capabilities for AI Agents and AI Coding Assistants
 - [shemhamforash23/lightrag-mcp](https://github.com/shemhamforash23/lightrag-mcp) - 
@@ -1375,7 +1383,6 @@
 - [caddymanager/caddymanager](https://github.com/caddymanager/caddymanager) - Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
 - [almir/docker-webhook](https://github.com/almir/docker-webhook) - Dockerized https://github.com/adnanh/webhook
 - [gardengim/keepwsl](https://github.com/gardengim/keepwsl) - A simple service to keep WSL alive
-- [nbt4/rentalcore](https://github.com/nbt4/rentalcore) - RentalCore — A Docker-first equipment rental management system built in Go, featuring inventory tracking, job & customer management, analytics, and secure role-based access.
 - [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 - [sirjmann92/nicotineplus-proper](https://github.com/sirjmann92/nicotineplus-proper) - Nicotine+ as a WebUI in a Docker container
 - [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience.
@@ -1647,6 +1654,7 @@
 
 ## python 
 
+- [CaddyGlow/ccproxy-api](https://github.com/CaddyGlow/ccproxy-api) - is a local reverse proxy providing unified access to multiple AI providers (Claude, Codex) through a single interface, using your existing subscriptions without API key billing.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [jahwag/ClaudeSync](https://github.com/jahwag/ClaudeSync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
@@ -1664,7 +1672,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
-- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance SDK and runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
