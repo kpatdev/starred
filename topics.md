@@ -1323,6 +1323,7 @@
 
 ## others 
 
+- [Xerxes-2/clewdr](https://github.com/Xerxes-2/clewdr) - High Performance LLM Reverse Proxy
 - [mirrorange/clove](https://github.com/mirrorange/clove) - A Claude.ai reverse proxy
 - [Maol-1997/cursor-claude-connector](https://github.com/Maol-1997/cursor-claude-connector) - Cursor with claude's subscription
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
