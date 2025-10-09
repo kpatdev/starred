@@ -242,6 +242,7 @@
 
 ## Others 
 
+- [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) - A curated collection of useful to have programs on a multiboot USB drive
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) - Practical marketing resources to get the first 10/100/1000 users for your SaaS/App/Startup
@@ -311,6 +312,7 @@
 
 ## Python 
 
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 - [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Self-hosted, multi-user API that drops bots into Google Meet for real-time transcripts.
