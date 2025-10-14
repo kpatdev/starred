@@ -587,7 +587,7 @@
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a smart proxy server that handles the plumbing work in AI: agent routing and hand off, guardrails, end-to-end traces and unify access to LLMs from OpenAI, Anthropic,
+- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI - agent routing & hand off, guardrails, end-to-end logs & traces, unified access to LLMs from OpenA
 - [LeeeSe/MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码；Automatic extraction of 2FA codes from iMassage and Mail App for Mac platform
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
