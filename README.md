@@ -169,7 +169,7 @@
 - [Emmanuel-Rods/SnapBot](https://github.com/Emmanuel-Rods/SnapBot) - SnapBot is an automation tool designed to help maintain Snap Streaks effortlessly. It logs into Snapchat, captures snaps with custom captions, and sends them to your best friends or groups, all throug
 - [Cirx08/WeddingShare](https://github.com/Cirx08/WeddingShare) - A place for guests to view and drop pictures of the big day
 - [sb2702/free-ai-video-upscaler](https://github.com/sb2702/free-ai-video-upscaler) - Source code for free AI video upscaler tool
-- [JonathanChavezTamales/llm-leaderboard](https://github.com/JonathanChavezTamales/llm-leaderboard) - A comprehensive set of LLM benchmark scores and provider prices.
+- [JonathanChavezTamales/llm-leaderboard](https://github.com/JonathanChavezTamales/llm-leaderboard) - A comprehensive set of LLM benchmark scores and provider prices. (deprecated, read more in README)
 - [leikoilja/LibreChat-UI](https://github.com/leikoilja/LibreChat-UI) - Cross-platform desktop app wrapper for self-hosted LibreChat
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [ehmicky/unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions
