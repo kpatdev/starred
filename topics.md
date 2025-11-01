@@ -1367,6 +1367,9 @@
 
 ## others 
 
+- [russs123/trading_bot](https://github.com/russs123/trading_bot) - 
+- [unmonitarr/unmonitarr](https://github.com/unmonitarr/unmonitarr) - Wait for real releases, skip the fakes. Intelligent monitoring automation for Sonarr & Radarr.
+- [TesslateAI/Studio](https://github.com/TesslateAI/Studio) - Open Source Locally Hosted Lovable with Full Stack Support
 - [thetom42/perplexica-mcp](https://github.com/thetom42/perplexica-mcp) - MCP server for Perplexica
 - [kusold/Shreddit](https://github.com/kusold/Shreddit) - Remove your comment history on Reddit as deleting an account does not do so.
 - [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
