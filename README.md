@@ -583,6 +583,7 @@
 
 ## Rust 
 
+- [sidoshi/karakeep-sync](https://github.com/sidoshi/karakeep-sync) - Sync links from Hacker News upvotes, Reddit Saves and more to Karakeep/Hoarder for centralized bookmark management
 - [Xerxes-2/clewdr](https://github.com/Xerxes-2/clewdr) - High Performance LLM Reverse Proxy
 - [ZhangHanDong/claude-code-api-rs](https://github.com/ZhangHanDong/claude-code-api-rs) - A high-performance Rust implementation of an OpenAI-compatible API gateway for Claude Code CLI.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
