@@ -242,6 +242,7 @@
 
 ## Nix 
 
+- [Tarow/nix-config](https://github.com/Tarow/nix-config) - 
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 
