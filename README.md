@@ -202,7 +202,6 @@
 - [derekantrican/GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) - A Google Apps Script for syncing ICS/ICAL files faster than the current Google Calendar speed
 - [lpg0/plaid-transaction-script](https://github.com/lpg0/plaid-transaction-script) - Automate bank transaction data using the Plaid API into Google Sheets
 - [williamlmao/plaid-to-gsheets](https://github.com/williamlmao/plaid-to-gsheets) - Automate a personal finance dashboard using the Plaid API, Google Sheets, and Data Studio. Build transformation rules to categorize everything to your liking. Easily add data from non-plaid sources. T
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 
 ## Jinja 
@@ -610,7 +609,7 @@
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
-- [katanemo/archgw](https://github.com/katanemo/archgw) - Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - agent routing and orchestration, guardrails, zero-code logs and traces, a
+- [katanemo/archgw](https://github.com/katanemo/archgw) - Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - like agent routing and orchestration, guardrails, zero-code logs and trac
 - [LeeeSe/MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码；Automatic extraction of 2FA codes from iMassage and Mail App for Mac platform
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
@@ -739,7 +738,7 @@
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Open Source perplexity alternative.
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month. Fol
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 - [PaulHatch/semantic-version](https://github.com/PaulHatch/semantic-version) - A GitHub Action to generate semantic version from a git repository's commit history.
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
@@ -815,6 +814,7 @@
 - [DouwJacobs/plex-shuffler](https://github.com/DouwJacobs/plex-shuffler) - Creates shuffled playlists which integrates with the Plex ecosystem.
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [toolkit-ai/toolkit-ai](https://github.com/toolkit-ai/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
