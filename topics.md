@@ -1455,6 +1455,7 @@
 
 ## others 
 
+- [empowerd-cms/nyno](https://github.com/empowerd-cms/nyno) - Create and Run Linux Workflows without Limits. Short for "nine" / "yaml" / "no-code" / "automation".
 - [jarredou/Music-Source-Separation-Training-Colab-Inference](https://github.com/jarredou/Music-Source-Separation-Training-Colab-Inference) - Colab inference for ZFTurbo's Music-Source-Separation-Training
 - [Tarow/nix-config](https://github.com/Tarow/nix-config) - 
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
@@ -1537,7 +1538,7 @@
 - [BobHasNoSoul/jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods) - This is just a guide for various modifications and dumping ground for jellyfin mods so i dont have to make a new jftool for every platform and revision
 - [arnolicious/jelly-clipper](https://github.com/arnolicious/jelly-clipper) - Companion Webapp to Jellyfin which enables the creation and sharing of clips from Jellyfin content
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
-- [LetsGoDude/OverseerrRequestViaTelegramBot](https://github.com/LetsGoDude/OverseerrRequestViaTelegramBot) - A phyton script to request movies and series via a Telegram bot via Overseerr
+- [LetsGoDude/Overseerr-Telegram-Bot](https://github.com/LetsGoDude/Overseerr-Telegram-Bot) - A phyton script to request movies and series via a Telegram bot via Overseerr
 - [shommey/dockerized-quartz](https://github.com/shommey/dockerized-quartz) - 
 - [l4rm4nd/Obsidian-Gitsync-Perlite](https://github.com/l4rm4nd/Obsidian-Gitsync-Perlite) - Docker container to continuously sync Obsidian markdown notes from GitHub and publish it for the webs
 - [jhofker/obsidian-hoarder](https://github.com/jhofker/obsidian-hoarder) - An Obsidian.md community plugin that allows syncing with hoarder.app
