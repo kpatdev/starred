@@ -422,7 +422,7 @@
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) - A middleware to provide an openAI compatible endpoint that can call MCP tools
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) - 
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent stack that runs in your cloud. Framework, runtime, and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent toolkit: framework, runtime, and control plane.
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [savbell/whisper-writer](https://github.com/savbell/whisper-writer) - 💬📝 A small dictation app using OpenAI's Whisper speech recognition model.
@@ -609,7 +609,7 @@
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
-- [katanemo/archgw](https://github.com/katanemo/archgw) - Ship agents faster. Arch is delivery infrastructure for agentic apps — a models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.
+- [katanemo/archgw](https://github.com/katanemo/archgw) - Ship agents faster. Plano is delivery infrastructure for agentic apps — a models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.
 - [LeeeSe/MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码；Automatic extraction of 2FA codes from iMassage and Mail App for Mac platform
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
