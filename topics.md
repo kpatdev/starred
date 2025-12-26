@@ -1459,6 +1459,7 @@
 
 ## others 
 
+- [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
 - [andrewbanchich/shreddit](https://github.com/andrewbanchich/shreddit) - Delete your Reddit data.
 - [Anonymousdog/displaycameras](https://github.com/Anonymousdog/displaycameras) - System for displaying RTSP feeds from IP cameras on the Raspberry Pi
 - [empowerd-cms/nyno](https://github.com/empowerd-cms/nyno) - Create and Run Linux Workflows without Limits. Short for "nine" / "yaml" / "no-code" / "automation".
