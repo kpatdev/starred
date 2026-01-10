@@ -100,6 +100,7 @@
 
 ## Dockerfile 
 
+- [fboulnois/llama-cpp-docker](https://github.com/fboulnois/llama-cpp-docker) - Run llama.cpp in a GPU accelerated Docker container
 - [dciancu/unifi-protect-unvr-docker-arm64](https://github.com/dciancu/unifi-protect-unvr-docker-arm64) - UniFi Protect UNVR Docker container for arm64
 - [realies/soulseek-docker](https://github.com/realies/soulseek-docker) - ⛴ Soulseek Docker Container
 - [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) - Run Obsidian.md in a browser via a docker container.
@@ -107,8 +108,9 @@
 
 ## Go 
 
+- [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
-- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -325,6 +327,7 @@
 
 ## Python 
 
+- [DadaNanjesha/AI-content-detector-Humanizer](https://github.com/DadaNanjesha/AI-content-detector-Humanizer) - A comprehensive web application that detects AI-generated content in PDF documents and transforms AI text into natural human-like writing. Built with Streamlit, spaCy, and Hugging Face transformers.
 - [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
 - [2Tiny2Scale/ScaleTail](https://github.com/2Tiny2Scale/ScaleTail) - Tailscale Sidecar Configurations for Docker
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
@@ -467,6 +470,7 @@
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [stevezau/plex_generate_vid_previews](https://github.com/stevezau/plex_generate_vid_previews) - Speed up the process of generating preview thumbnails for your Plex media library.
 - [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [nwithan8/plex-prerolls](https://github.com/nwithan8/plex-prerolls) - Schedule Plex Pre-Roll listings
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
@@ -706,7 +710,6 @@
 - [reecelikesramen/open-webui-desktop](https://github.com/reecelikesramen/open-webui-desktop) - A native desktop app for Open WebUI built with Tauri v2
 - [arnolicious/jelly-clipper](https://github.com/arnolicious/jelly-clipper) - Companion Webapp to Jellyfin which enables the creation and sharing of clips from Jellyfin content
 - [thisuxhq/fli.so](https://github.com/thisuxhq/fli.so) - Shorten, customize, and track your links with Fli.so. The easiest way to manage your links, all in one platform.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 
 ## Swift 
@@ -729,7 +732,10 @@
 
 ## TypeScript 
 
-- [sgasser/llm-shield](https://github.com/sgasser/llm-shield) - Privacy proxy for LLMs. Masks PII before sending to your provider or routes sensitive requests to local LLM.
+- [foxleigh81/strip-ai](https://github.com/foxleigh81/strip-ai) - A simple tool to replace an em-dash and en-dash marks from content and replace it with sensible characters.
+- [Nordth/humanize-ai-lib](https://github.com/Nordth/humanize-ai-lib) - Humanize string function used in https://humanize-ai.click/
+- [DanSnow/hoarder-pipette](https://github.com/DanSnow/hoarder-pipette) - An extension that inject your bookmarks from your Hoarder app into your search results
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for LLMs - masks PII before upstream or routes to local LLM. OpenAI API compatible.
 - [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready.
 - [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -845,6 +851,7 @@
 
 ## Vue 
 
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [caddymanager/caddymanager](https://github.com/caddymanager/caddymanager) - Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [Lynx-Shortener/Lynx](https://github.com/Lynx-Shortener/Lynx) - A fullstack application using the MEVN stack to shorten your URLs.
