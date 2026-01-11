@@ -624,8 +624,8 @@
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
-- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications: an AI-native proxy & dataplane that offloads plumbing work, so you stay focused on your agent's core logic.
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
+- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications: an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic.
 - [LeeeSe/MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码；Automatic extraction of 2FA codes from iMassage and Mail App for Mac platform
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
