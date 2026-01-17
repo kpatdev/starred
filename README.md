@@ -328,6 +328,7 @@
 
 ## Python 
 
+- [danwlsn/cv](https://github.com/danwlsn/cv) - My curriculum vitae
 - [DadaNanjesha/AI-content-detector-Humanizer](https://github.com/DadaNanjesha/AI-content-detector-Humanizer) - A comprehensive web application that detects AI-generated content in PDF documents and transforms AI text into natural human-like writing. Built with Streamlit, spaCy, and Hugging Face transformers.
 - [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
 - [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
@@ -736,11 +737,11 @@
 - [foxleigh81/strip-ai](https://github.com/foxleigh81/strip-ai) - A simple tool to replace an em-dash and en-dash marks from content and replace it with sensible characters.
 - [Nordth/humanize-ai-lib](https://github.com/Nordth/humanize-ai-lib) - Humanize string function used in https://humanize-ai.click/
 - [DanSnow/hoarder-pipette](https://github.com/DanSnow/hoarder-pipette) - An extension that inject your bookmarks from your Hoarder app into your search results
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for LLMs - masks PII before upstream or routes to local LLM. OpenAI API compatible.
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for LLMs - masks PII and secrets before upstream or routes to local LLM. OpenAI API compatible.
 - [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready.
 - [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [mnemosyne-artificial-intelligence/doppelganger](https://github.com/mnemosyne-artificial-intelligence/doppelganger) - Doppelgänger is a self-hosted, free browser automation and scraping platform built on Playwright, designed to handle everything from simple scraping to complex, human-like browser interactions.  It pr
+- [mnemosyne-artificial-intelligence/doppelganger](https://github.com/mnemosyne-artificial-intelligence/doppelganger) - Doppelganger is a self-hosted, free browser automation and scraping platform built on Playwright, designed to handle everything from simple scraping to complex, human-like browser interactions.  It pr
 - [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
 - [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
