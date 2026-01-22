@@ -71,6 +71,7 @@
 - [facebook](#facebook)
 - [finance](#finance)
 - [firebase](#firebase)
+- [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
@@ -224,6 +225,7 @@
 
 ## ai 
 
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [yorkeccak/bio](https://github.com/yorkeccak/bio) - The world's most powerful open-source bio AI assistant - Access academic literature, clinical trials, drug labels, and more, all through natural conversation.
 - [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [foxleigh81/strip-ai](https://github.com/foxleigh81/strip-ai) - A simple tool to replace an em-dash and en-dash marks from content and replace it with sensible characters.
@@ -274,7 +276,7 @@
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvft
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -300,7 +302,7 @@
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading and Profiling for Python
 - [daveebbelaar/langchain-experiments](https://github.com/daveebbelaar/langchain-experiments) - Building Apps with LLMs
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -310,6 +312,7 @@
 
 ## ai-agents 
 
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [yorkeccak/bio](https://github.com/yorkeccak/bio) - The world's most powerful open-source bio AI assistant - Access academic literature, clinical trials, drug labels, and more, all through natural conversation.
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -364,7 +367,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [lpg0/plaid-transaction-script](https://github.com/lpg0/plaid-transaction-script) - Automate bank transaction data using the Plaid API into Google Sheets
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 
 ## archlinux 
 
@@ -526,6 +529,7 @@
 
 ## chatbot 
 
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend - Supports any OpenAI compatible API (Ollama, xAI, Gemini, OpenRouter and more)
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
@@ -602,6 +606,7 @@
 
 ## chrome 
 
+- [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
@@ -615,6 +620,7 @@
 
 ## cli 
 
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
@@ -680,7 +686,7 @@
 
 ## computer-vision 
 
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 
 ## config 
 
@@ -899,6 +905,10 @@
 ## firebase 
 
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+
+## firefox 
+
+- [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 
 ## flask 
 
@@ -1191,6 +1201,7 @@
 
 ## llm 
 
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [fboulnois/llama-cpp-docker](https://github.com/fboulnois/llama-cpp-docker) - Run llama.cpp in a GPU accelerated Docker container
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for OpenAI and Anthropic - masks PII and secrets before they reach the API, or routes to local LLM.
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
@@ -1220,7 +1231,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [character-ai/prompt-poet](https://github.com/character-ai/prompt-poet) - Streamlines and simplifies prompt design for both developers and non-technical users with a low code approach.
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
@@ -1236,7 +1247,7 @@
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [lightrail-ai/lightrail](https://github.com/lightrail-ai/lightrail) - Lightrail Monorepo
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 
 ## low-code 
@@ -1260,7 +1271,7 @@
 - [dalehumby/openWakeWord-rhasspy](https://github.com/dalehumby/openWakeWord-rhasspy) - openWakeWord for Rhasspy
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
 - [grobidOrg/grobid](https://github.com/grobidOrg/grobid) - A machine learning software for extracting information from scholarly documents
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
@@ -1337,7 +1348,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
 ## mongodb 
@@ -1466,6 +1477,7 @@
 
 ## openai 
 
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for OpenAI and Anthropic - masks PII and secrets before they reach the API, or routes to local LLM.
 - [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
@@ -1532,6 +1544,7 @@
 
 ## others 
 
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [accomplish-ai/openwork](https://github.com/accomplish-ai/openwork) - Openwork™ is the open source Al coworker that lives on your desktop
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by OpenCode
 - [danwlsn/cv](https://github.com/danwlsn/cv) - My curriculum vitae
@@ -2003,6 +2016,7 @@
 
 ## rag 
 
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) - PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation
 - [win4r/GraphRAG4OpenWebUI](https://github.com/win4r/GraphRAG4OpenWebUI) - GraphRAG4OpenWebUI integrates Microsoft's GraphRAG technology into Open WebUI, providing a versatile information retrieval API. It combines local, global, and web searches for advanced Q&A systems and
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
@@ -2071,6 +2085,7 @@
 
 ## rust 
 
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -2176,6 +2191,7 @@
 
 ## shell 
 
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
@@ -2202,7 +2218,7 @@
 ## stable-diffusion 
 
 - [SamurAIGPT/AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) - A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 
 ## statistics 
 
@@ -2366,6 +2382,7 @@
 
 ## vim 
 
+- [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
