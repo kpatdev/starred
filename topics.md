@@ -262,7 +262,7 @@
 - [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) - A middleware to provide an openAI compatible endpoint that can call MCP tools
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
@@ -323,7 +323,7 @@
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
@@ -364,6 +364,7 @@
 
 ## api 
 
+- [moddroid94/local-green-api](https://github.com/moddroid94/local-green-api) - Locally hosted Green WebAPI clone
 - [mnemosyne-artificial-intelligence/doppelganger](https://github.com/mnemosyne-artificial-intelligence/doppelganger) - Doppelganger is a self-hosted, free browser automation and scraping platform built on Playwright, designed to handle everything from simple scraping to complex, human-like browser interactions.  It pr
 - [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
 - [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
@@ -560,6 +561,7 @@
 
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [fboulnois/llama-cpp-docker](https://github.com/fboulnois/llama-cpp-docker) - Run llama.cpp in a GPU accelerated Docker container
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
 - [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - Access OpenAI models programmatically through your ChatGPT subscription.
@@ -776,7 +778,7 @@
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -818,6 +820,7 @@
 
 ## docker 
 
+- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [fboulnois/llama-cpp-docker](https://github.com/fboulnois/llama-cpp-docker) - Run llama.cpp in a GPU accelerated Docker container
 - [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
@@ -983,6 +986,7 @@
 
 ## go 
 
+- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
@@ -1216,7 +1220,7 @@
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [fboulnois/llama-cpp-docker](https://github.com/fboulnois/llama-cpp-docker) - Run llama.cpp in a GPU accelerated Docker container
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for OpenAI and Anthropic - masks PII and secrets before they reach the API, or routes to local LLM.
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
 - [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire) - Local-first, open-source AI assistant for your data. Unify tasks, notes, docs, photos, and bookmarks. Private, self-hosted, and extensible via APIs.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
@@ -1507,7 +1511,7 @@
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for OpenAI and Anthropic - masks PII and secrets before they reach the API, or routes to local LLM.
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
@@ -1572,6 +1576,9 @@
 
 ## others 
 
+- [T3-Content/unduck](https://github.com/T3-Content/unduck) - A fast, local-first "search engine" for !bang users
+- [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
 - [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui) - Open CoreUI - A rewritten Open WebUI in Rust, significantly reducing memory and resource usage, requiring no dependency services, no Docker, with both a server version and a Tauri-based desktop client
 - [castai/openwebui-content-sync](https://github.com/castai/openwebui-content-sync) - Tool to maintain syncronization of RAG knowledge for OpenWebUI
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
@@ -1589,7 +1596,7 @@
 - [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
 - [andrewbanchich/shreddit](https://github.com/andrewbanchich/shreddit) - Delete your Reddit data.
 - [Anonymousdog/displaycameras](https://github.com/Anonymousdog/displaycameras) - System for displaying RTSP feeds from IP cameras on the Raspberry Pi
-- [empowerd-cms/nyno](https://github.com/empowerd-cms/nyno) - Create and Run Linux Workflows without Limits. Short for "nine" / "yaml" / "no-code" / "automation".
+- [empowerd-cms/nyno](https://github.com/empowerd-cms/nyno) - Nyno is a Commercial-Friendly AI Workflow Builder & Engine. Quick demo: https://europe.nyno.dev | Create and Run Workflows without Limits. Async. Multi-Process. Postgres database. Short for "nine" / "
 - [jarredou/Music-Source-Separation-Training-Colab-Inference](https://github.com/jarredou/Music-Source-Separation-Training-Colab-Inference) - Colab inference for ZFTurbo's Music-Source-Separation-Training
 - [Tarow/nix-config](https://github.com/Tarow/nix-config) - 
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
@@ -1858,7 +1865,6 @@
 - [laur89/docker-seedbox-rclone-fetch-extract](https://github.com/laur89/docker-seedbox-rclone-fetch-extract) - Dockerised service pulling data from remote seedbox & extracting archives
 - [chazlarson/Media-Scripts](https://github.com/chazlarson/Media-Scripts) - 
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
-- [andyfeili/osrsBottedtoMax_SimbaScripts](https://github.com/andyfeili/osrsBottedtoMax_SimbaScripts) - 
 - [Shayne55434/kometa](https://github.com/Shayne55434/kometa) - My setup for Plex Meta Manager
 - [rjohnson3/awesome-tesla](https://github.com/rjohnson3/awesome-tesla) - Awesome resources for Tesla vehicles
 - [jniggemann/filebrowser-css](https://github.com/jniggemann/filebrowser-css) - Custom stylesheet for filebrowser that adds colors and changes icons
@@ -1898,7 +1904,7 @@
 
 ## privacy 
 
-- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for OpenAI and Anthropic - masks PII and secrets before they reach the API, or routes to local LLM.
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
 - [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire) - Local-first, open-source AI assistant for your data. Unify tasks, notes, docs, photos, and bookmarks. Private, self-hosted, and extensible via APIs.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [karan51ngh/RedditRefresh](https://github.com/karan51ngh/RedditRefresh) - This script allows you to Bulk Delete, Cryptographically Hash, Encrypt or Decrypt your Reddit posts or comments for better privacy and security.
@@ -1969,7 +1975,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build agents that learn and improve.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
@@ -2155,6 +2161,7 @@
 
 ## security 
 
+- [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - Masks sensitive data and secrets before they reach AI. Open-source proxy and browser extension.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
@@ -2168,6 +2175,7 @@
 
 ## self-hosted 
 
+- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [KelTech-Services/MediaRoulette](https://github.com/KelTech-Services/MediaRoulette) - Can't decide what to watch? MediaRoulette randomly picks movies and TV shows from your Plex library.
@@ -2362,6 +2370,7 @@
 
 ## typescript 
 
+- [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
