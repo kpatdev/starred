@@ -1597,7 +1597,7 @@
 - [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
 - [andrewbanchich/shreddit](https://github.com/andrewbanchich/shreddit) - Delete your Reddit data.
 - [Anonymousdog/displaycameras](https://github.com/Anonymousdog/displaycameras) - System for displaying RTSP feeds from IP cameras on the Raspberry Pi
-- [empowerd-cms/nyno](https://github.com/empowerd-cms/nyno) - Nyno is a Commercial-Friendly AI Workflow Builder & Engine. Quick demo: https://europe.nyno.dev | Create and Run Workflows without Limits. Async. Multi-Process. Postgres database. Short for "nine" / "
+- [flowagi-eu/nyno](https://github.com/flowagi-eu/nyno) - Nyno is a Commercial-Friendly AI Workflow Builder & Engine. Quick demo: https://europe.nyno.dev | Create and Run Workflows without Limits. Async. Multi-Process. Postgres database. Short for "nine" / "
 - [jarredou/Music-Source-Separation-Training-Colab-Inference](https://github.com/jarredou/Music-Source-Separation-Training-Colab-Inference) - Colab inference for ZFTurbo's Music-Source-Separation-Training
 - [Tarow/nix-config](https://github.com/Tarow/nix-config) - 
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
