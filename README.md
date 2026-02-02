@@ -167,7 +167,7 @@
 
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
-- [empowerd-cms/nyno](https://github.com/empowerd-cms/nyno) - Nyno is a Commercial-Friendly AI Workflow Builder & Engine. Quick demo: https://europe.nyno.dev | Create and Run Workflows without Limits. Async. Multi-Process. Postgres database. Short for "nine" / "
+- [flowagi-eu/nyno](https://github.com/flowagi-eu/nyno) - Nyno is a Commercial-Friendly AI Workflow Builder & Engine. Quick demo: https://europe.nyno.dev | Create and Run Workflows without Limits. Async. Multi-Process. Postgres database. Short for "nine" / "
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [renovatebot/renovate-approve-bot](https://github.com/renovatebot/renovate-approve-bot) - 
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
