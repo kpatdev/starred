@@ -1115,6 +1115,7 @@
 
 ## instagram 
 
+- [xafn/instafn](https://github.com/xafn/instafn) - 📸 Feature-rich browser extension for Instagram web
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.
 - [Danie1/threads-api](https://github.com/Danie1/threads-api) - Unofficial Python API for Meta's Threads App
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
@@ -2455,6 +2456,7 @@
 
 ## web 
 
+- [xafn/instafn](https://github.com/xafn/instafn) - 📸 Feature-rich browser extension for Instagram web
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [realies/soulseek-docker](https://github.com/realies/soulseek-docker) - ⛴ Soulseek Docker Container
 - [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
