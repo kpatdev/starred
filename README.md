@@ -204,7 +204,6 @@
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [msveshnikov/allchat](https://github.com/msveshnikov/allchat) - AI chat client
-- [shtse8/Google-Photos-Delete-Tool](https://github.com/shtse8/Google-Photos-Delete-Tool) - This tool provides an efficient, stable, and automated way to delete multiple photos from Google Photos. It's now available as a Chrome extension for easier use, but you can also use the script inject
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
 - [hsbakshi/reddit-check](https://github.com/hsbakshi/reddit-check) - Chrome extension to check whether a URL is already submitted to reddit.
@@ -858,6 +857,7 @@
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [shtse8/Google-Photos-Delete-Tool](https://github.com/shtse8/Google-Photos-Delete-Tool) - This tool provides an efficient, stable, and automated way to delete multiple photos from Google Photos. It's now available as a Chrome extension for easier use, but you can also use the script inject
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
