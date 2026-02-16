@@ -263,7 +263,7 @@
 
 ## Others 
 
-- [stoatchat/awesome-stoat](https://github.com/stoatchat/awesome-stoat) - Collection of Stoat libraries, bots, clients and other cool stuff.
+- [stoatchat/awesome-stoat](https://github.com/stoatchat/awesome-stoat) - Collection of Stoat libraries, bots, clients, and other cool stuff.
 - [ThomasRives/Proxmox-over-wifi](https://github.com/ThomasRives/Proxmox-over-wifi) - Tutorial to make Proxmox over wifi
 - [punal100/get-stuff-done-for-kilocode](https://github.com/punal100/get-stuff-done-for-kilocode) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Kilo Code
 - [Dilden/Ansible-Proxmox-Automation](https://github.com/Dilden/Ansible-Proxmox-Automation) - automating my homelab
@@ -372,7 +372,7 @@
 - [jaraco/googlevoice](https://github.com/jaraco/googlevoice) - Python Google Voice library based on pygooglevoice
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) - A bridge between Streamable HTTP and stdio MCP transports
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 - [botingw/rulebook-ai](https://github.com/botingw/rulebook-ai) - Elevate vibe coding to vibe engineering: Get consistent Github Copilot custom instructions, Cursor, Roo Code, Cline, Windsurf, Claude Code, Gemini Cli, Codex CLI, kilo code, warp custom rules via a un
@@ -447,7 +447,7 @@
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) - A middleware to provide an openAI compatible endpoint that can call MCP tools
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) - 
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software.
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [savbell/whisper-writer](https://github.com/savbell/whisper-writer) - 💬📝 A small dictation app using OpenAI's Whisper speech recognition model.
@@ -614,7 +614,7 @@
 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
-- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [Yoo1tic/pollux](https://github.com/Yoo1tic/pollux) - Pollux is a headless, actor-driven Rust reverse proxy that orchestrates AI resources. It serves as a microsecond-level scheduler, transforming raw credential resources into standard Gemini & OpenAI in
 - [andrewbanchich/shreddit](https://github.com/andrewbanchich/shreddit) - Delete your Reddit data.
@@ -725,7 +725,6 @@
 
 - [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui) - Open CoreUI - A rewritten Open WebUI in Rust, significantly reducing memory and resource usage, requiring no dependency services, no Docker, with both a server version and a Tauri-based desktop client
 - [reecelikesramen/open-webui-desktop](https://github.com/reecelikesramen/open-webui-desktop) - A native desktop app for Open WebUI built with Tauri v2
-- [arnolicious/jelly-clipper](https://github.com/arnolicious/jelly-clipper) - Companion Webapp to Jellyfin which enables the creation and sharing of clips from Jellyfin content
 - [thisuxhq/fli.so](https://github.com/thisuxhq/fli.so) - Shorten, customize, and track your links with Fli.so. The easiest way to manage your links, all in one platform.
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 
@@ -749,6 +748,7 @@
 
 ## TypeScript 
 
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber) - Desktop and web interface for OpenCode AI agent
 - [pdfme/pdfme](https://github.com/pdfme/pdfme) - Open-source PDF generation library built with TypeScript and React. Features a WYSIWYG template designer, PDF viewer, and powerful generation capabilities. Create custom PDFs effortlessly in both brow
@@ -800,6 +800,7 @@
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [FoxxMD/komodo-import](https://github.com/FoxxMD/komodo-import) - Import existing compose stacks into Komodo
 - [yamlresume/yamlresume](https://github.com/yamlresume/yamlresume) - Resumes as code in YAML, brought to you with ❤️ by PPResume.
+- [arnolicious/jelly-clipper](https://github.com/arnolicious/jelly-clipper) - Companion Webapp to Jellyfin which enables the creation and sharing of clips from Jellyfin content
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [jhofker/obsidian-hoarder](https://github.com/jhofker/obsidian-hoarder) - An Obsidian.md community plugin that allows syncing with hoarder.app
