@@ -167,6 +167,7 @@
 
 ## JavaScript 
 
+- [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [xafn/instafn](https://github.com/xafn/instafn) - 📸 Feature-rich browser extension for Instagram web
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
@@ -226,7 +227,6 @@
 - [jarredou/Music-Source-Separation-Training-Colab-Inference](https://github.com/jarredou/Music-Source-Separation-Training-Colab-Inference) - Colab inference for ZFTurbo's Music-Source-Separation-Training
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [benhaotang/OpenDeepResearcher-via-searxng](https://github.com/benhaotang/OpenDeepResearcher-via-searxng) - Open Deep Researcher with openai compatible endpoint, now completely local with ollama, local playwright via searxng with citations and planning from CoT
-- [AWeirdDev/flights](https://github.com/AWeirdDev/flights) - Fast, robust Google Flights scraper (API) for Python. (Probably)
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [88lex/safire](https://github.com/88lex/safire) - 
@@ -335,6 +335,7 @@
 
 ## Python 
 
+- [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent toolset to help make your slop code well-engineered and beautiful.
 - [moddroid94/local-green-api](https://github.com/moddroid94/local-green-api) - Locally hosted Green WebAPI clone
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -389,6 +390,7 @@
 - [browserbase/stagehand-python](https://github.com/browserbase/stagehand-python) - The AI Browser Automation Framework
 - [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, Google, ZipRecruiter & more
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
+- [AWeirdDev/flights](https://github.com/AWeirdDev/flights) - Fast, robust Google Flights scraper (API) for Python. (Probably)
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your 
 - [assafelovic/gptr-mcp](https://github.com/assafelovic/gptr-mcp) - MCP server for enabling LLM applications to perform deep research via the MCP protocol
@@ -447,7 +449,7 @@
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) - A middleware to provide an openAI compatible endpoint that can call MCP tools
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) - 
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build multi-agent systems with streaming, memory, governance, and request isolation.
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [savbell/whisper-writer](https://github.com/savbell/whisper-writer) - 💬📝 A small dictation app using OpenAI's Whisper speech recognition model.
@@ -730,6 +732,7 @@
 
 ## Swift 
 
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [deveix/react-native-apple-llm](https://github.com/deveix/react-native-apple-llm) - React Native Apple LLM plugin using Foundation Models
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
