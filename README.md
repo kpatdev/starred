@@ -212,7 +212,7 @@
 - [derekantrican/GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) - A Google Apps Script for syncing ICS/ICAL files faster than the current Google Calendar speed
 - [lpg0/plaid-transaction-script](https://github.com/lpg0/plaid-transaction-script) - Automate bank transaction data using the Plaid API into Google Sheets
 - [williamlmao/plaid-to-gsheets](https://github.com/williamlmao/plaid-to-gsheets) - Automate a personal finance dashboard using the Plaid API, Google Sheets, and Data Studio. Build transformation rules to categorize everything to your liking. Easily add data from non-plaid sources. T
-- [Anil-matcha/Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI) - Open-Higgsfield AI: An open-source, local clone of Higgsfield's AI Studio. Generate high-quality AI video and images using Muapi. Features text-to-video (T2V), image-to-video (I2V), and advanced camer
+- [Anil-matcha/Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI) - Open-source alternative to Higgsfield AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram). Self-hosted, customizable, MIT licensed.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 
 ## Jinja 
@@ -335,6 +335,7 @@
 
 ## Python 
 
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 - [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent toolset to help make your slop code well-engineered and beautiful.
 - [moddroid94/local-green-api](https://github.com/moddroid94/local-green-api) - Locally hosted Green WebAPI clone
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -614,6 +615,7 @@
 
 ## Rust 
 
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
