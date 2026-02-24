@@ -256,7 +256,6 @@
 - [SaseQ/discord-mcp](https://github.com/SaseQ/discord-mcp) - A MCP server for the Discord integration. Enable your AI assistants to seamlessly interact with Discord. Enhance your Discord experience with powerful automation capabilities.
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 - [open-webui/openapi-servers](https://github.com/open-webui/openapi-servers) - OpenAPI Tool Servers
-- [gorgarp/Recommender](https://github.com/gorgarp/Recommender) - A standalone AI-powered application designed to learn your viewing preferences on your Plex server and provide personalized recommendations on what to watch.
 - [octrow/ollama-rename-files](https://github.com/octrow/ollama-rename-files) - Effortlessly rename files using local AI - No tokens, No API. Based on Ollama.
 - [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
@@ -370,7 +369,6 @@
 - [moddroid94/local-green-api](https://github.com/moddroid94/local-green-api) - Locally hosted Green WebAPI clone
 - [mnemosynestack/doppelganger](https://github.com/mnemosynestack/doppelganger) - Doppelganger is a self-hosted, free browser automation and scraping platform built on Playwright, designed to handle everything from simple scraping to complex, human-like browser interactions.  It pr
 - [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
-- [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [blaisewf/rvc-cli](https://github.com/blaisewf/rvc-cli) - 🚀 RVC + UVR = A perfect set of tools for voice cloning, easily and free!
@@ -1263,6 +1261,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
+- [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [character-ai/prompt-poet](https://github.com/character-ai/prompt-poet) - Streamlines and simplifies prompt design for both developers and non-technical users with a low code approach.
@@ -1562,6 +1561,7 @@
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -1593,6 +1593,7 @@
 
 ## others 
 
+- [ManiMatter/decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr, readarr and whisparr download queues and removes downloads if they become stalled or no longer needed.
 - [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
@@ -2001,8 +2002,6 @@
 - [wyattferguson/pattern](https://github.com/wyattferguson/pattern) - Pattern - A modern, opinionated, cookiecutter template for your next Python project.
 - [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files.
 - [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) - Automated Plex media cleanup with watch-based rules, smart exclusions, and "Leaving Soon" notifications via Radarr, Sonarr & Tautulli.
-- [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
-- [gorgarp/Recommender](https://github.com/gorgarp/Recommender) - A standalone AI-powered application designed to learn your viewing preferences on your Plex server and provide personalized recommendations on what to watch.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
@@ -2073,7 +2072,6 @@
 
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [gorgarp/Recommender](https://github.com/gorgarp/Recommender) - A standalone AI-powered application designed to learn your viewing preferences on your Plex server and provide personalized recommendations on what to watch.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching
 - [blaisewf/rvc-cli](https://github.com/blaisewf/rvc-cli) - 🚀 RVC + UVR = A perfect set of tools for voice cloning, easily and free!
