@@ -1995,7 +1995,7 @@
 ## python 
 
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-- [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [KelTech-Services/MediaRoulette](https://github.com/KelTech-Services/MediaRoulette) - Can't decide what to watch? MediaRoulette randomly picks movies and TV shows from your Plex library.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [karan51ngh/RedditRefresh](https://github.com/karan51ngh/RedditRefresh) - This script allows you to Bulk Delete, Cryptographically Hash, Encrypt or Decrypt your Reddit posts or comments for better privacy and security.
