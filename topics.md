@@ -251,7 +251,7 @@
 - [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce
 - [thepersonalaicompany/amurex](https://github.com/thepersonalaicompany/amurex) - World's first AI meeting copilot → The Invisible Companion for Work + Life
 - [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
 - [miikkaylisiurunen/raycast-ai-openrouter-proxy](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy) - Integrate any OpenAI-compatible API with Raycast AI
@@ -576,7 +576,7 @@
 - [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - Access OpenAI models programmatically through your ChatGPT subscription.
 - [GewoonJaap/codex-openai-wrapper](https://github.com/GewoonJaap/codex-openai-wrapper) - Wrap OpenAI's Codex to an OpenAI compatible endpoint using Cloudflare Workers
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -642,7 +642,7 @@
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
