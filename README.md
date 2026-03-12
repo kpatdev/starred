@@ -756,6 +756,7 @@
 
 ## TypeScript 
 
+- [jaskirat-gill/InsightRAG](https://github.com/jaskirat-gill/InsightRAG) - CS319 2025W2 Project
 - [MaxBittker/rs-sdk](https://github.com/MaxBittker/rs-sdk) - Runescape automation library, optimized for use by coding agents.
 - [Sharkord/sharkord](https://github.com/Sharkord/sharkord) - Lightweight, self-hosted, open-source chat server with voice, video, text, and screen sharing. Built for small groups who want privacy, simplicity, and full control over their data.
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
