@@ -370,7 +370,7 @@
 ## api 
 
 - [moddroid94/local-green-api](https://github.com/moddroid94/local-green-api) - Locally hosted Green WebAPI clone
-- [figranium/figranium](https://github.com/figranium/figranium) - The block-based, no-code engine for the agentic web. Build complex browser workflows visually and execute them via API. High-performance, self-hosted infrastructure for AI agents to navigate the web. 
+- [figranium/figranium](https://github.com/figranium/figranium) - Build complex browser workflows visually and execute them via API.
 - [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
@@ -416,7 +416,7 @@
 
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [Dilden/Ansible-Proxmox-Automation](https://github.com/Dilden/Ansible-Proxmox-Automation) - automating my homelab
-- [figranium/figranium](https://github.com/figranium/figranium) - The block-based, no-code engine for the agentic web. Build complex browser workflows visually and execute them via API. High-performance, self-hosted infrastructure for AI agents to navigate the web. 
+- [figranium/figranium](https://github.com/figranium/figranium) - Build complex browser workflows visually and execute them via API.
 - [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire) - Local-first, open-source AI assistant for your data. Unify tasks, notes, docs, photos, and bookmarks. Private, self-hosted, and extensible via APIs.
@@ -861,6 +861,7 @@
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
+- [stevezau/plex_generate_vid_previews](https://github.com/stevezau/plex_generate_vid_previews) - GPU-accelerated video preview thumbnail (BIF) generation for Plex Media Server. Docker-ready with NVIDIA/AMD/Intel support, web UI, scheduling, and Radarr/Sonarr webhooks.
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [jamess60/containercleaner](https://github.com/jamess60/containercleaner) - ContainerCleaner is a tool for automatically updating compose file containers/images and removing unsed images.
@@ -1802,7 +1803,6 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [danrahn/MarkerEditorForPlex](https://github.com/danrahn/MarkerEditorForPlex) - View, edit, add, and delete intro, credits, and commercial markers for your Plex media.
-- [stevezau/plex_generate_vid_previews](https://github.com/stevezau/plex_generate_vid_previews) - Speed up the process of generating preview thumbnails for your Plex media library.
 - [nickzman/symboliclinker](https://github.com/nickzman/symboliclinker) - A contextual menu plugin & service for macOS that allows users to make symbolic links in the Finder
 - [nwithan8/plex-prerolls](https://github.com/nwithan8/plex-prerolls) - Schedule Plex Pre-Roll listings
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
