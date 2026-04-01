@@ -186,7 +186,6 @@
 - [thepersonalaicompany/amurex](https://github.com/thepersonalaicompany/amurex) - World's first AI meeting copilot → The Invisible Companion for Work + Life
 - [keithah/tessie-mcp](https://github.com/keithah/tessie-mcp) - 🚗 Advanced Tesla MCP Server - Intelligent analytics, cost optimization, and predictive insights through Tessie API
 - [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open source, self-hostable warranty tracker to monitor expirations, store receipts, files. You own the data, your rules!
-- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 - [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience.
 - [Emmanuel-Rods/SnapBot](https://github.com/Emmanuel-Rods/SnapBot) - SnapBot is an automation tool designed to help maintain Snap Streaks effortlessly. It logs into Snapchat, captures snaps with custom captions, and sends them to your best friends or groups, all throug
 - [MakD/Jellyfin-Media-Bar](https://github.com/MakD/Jellyfin-Media-Bar) - A Jellyfin Featured Content Bar to show off your media collection
@@ -216,7 +215,6 @@
 - [lpg0/plaid-transaction-script](https://github.com/lpg0/plaid-transaction-script) - Automate bank transaction data using the Plaid API into Google Sheets
 - [williamlmao/plaid-to-gsheets](https://github.com/williamlmao/plaid-to-gsheets) - Automate a personal finance dashboard using the Plaid API, Google Sheets, and Data Studio. Build transformation rules to categorize everything to your liking. Easily add data from non-plaid sources. T
 - [Anil-matcha/Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI) - Open-source alternative to Higgsfield AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram). Self-hosted, customizable, MIT licensed.
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## Jinja 
 
@@ -249,14 +247,12 @@
 
 ## Makefile 
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [artis3n/ansible-role-tailscale](https://github.com/artis3n/ansible-role-tailscale) - Ansible role to install and configure a Tailscale node.
 
 ## Nix 
 
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
-- [kristianfreeman/computer](https://github.com/kristianfreeman/computer) - My computer setup, with nix & home manager
 - [Tarow/nix-config](https://github.com/Tarow/nix-config) - 
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
 
@@ -287,6 +283,7 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -369,6 +366,7 @@
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+- [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.
 - [kousha789123/apple-podcast-transcript-save-as-pdf](https://github.com/kousha789123/apple-podcast-transcript-save-as-pdf) - 
 - [mirrorange/clove](https://github.com/mirrorange/clove) - A Claude.ai reverse proxy
 - [CaddyGlow/ccproxy-api](https://github.com/CaddyGlow/ccproxy-api) - is a local reverse proxy providing unified access to multiple AI providers (Claude, Codex) through a single interface, using your existing subscriptions without API key billing.
@@ -413,6 +411,7 @@
 - [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
 - [keithah/monarchmoney-enhanced](https://github.com/keithah/monarchmoney-enhanced) - Python API for Monarch Money
 - [hammem/monarchmoney](https://github.com/hammem/monarchmoney) - Python API for Monarch Money
+- [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 - [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files.
 - [LetsGoDude/Overseerr-Telegram-Bot](https://github.com/LetsGoDude/Overseerr-Telegram-Bot) - A phyton script to request movies and series via a Telegram bot via Overseerr
 - [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
@@ -581,7 +580,7 @@
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [akarri2001/Notion-and-Google-Calendar-2-Way-Sync](https://github.com/akarri2001/Notion-and-Google-Calendar-2-Way-Sync) - 2 Way Sync Between Notion Database and Google Calendar
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
@@ -750,6 +749,7 @@
 - [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac.
 - [mikker/LeaderKey](https://github.com/mikker/LeaderKey) - The *faster than your launcher* launcher
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## Text 
 
@@ -863,7 +863,7 @@
 - [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
 - [YukiGasai/obsidian-google-calendar](https://github.com/YukiGasai/obsidian-google-calendar) - Add Google Calendar inside Obsidian
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai) - SearchGPT / Perplexity clone, but personalised for you.
