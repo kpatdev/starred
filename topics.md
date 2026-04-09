@@ -229,8 +229,8 @@
 
 ## ai 
 
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [CoderLuii/HolyCode](https://github.com/CoderLuii/HolyCode) - AI coding workstation: OpenCode + Claude subscription support + 30+ tools + headless browser + multi-agent orchestration
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
@@ -556,6 +556,7 @@
 
 ## chatbot 
 
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend - Supports any OpenAI compatible API (Ollama, xAI, Gemini, OpenRouter and more)
@@ -645,6 +646,7 @@
 
 ## claude-code 
 
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -661,6 +663,7 @@
 
 ## cli 
 
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
@@ -807,7 +810,6 @@
 
 ## developer-tools 
 
-- [CoderLuii/HolyCode](https://github.com/CoderLuii/HolyCode) - AI coding workstation: OpenCode + Claude subscription support + 30+ tools + headless browser + multi-agent orchestration
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -854,7 +856,6 @@
 
 ## docker 
 
-- [CoderLuii/HolyCode](https://github.com/CoderLuii/HolyCode) - AI coding workstation: OpenCode + Claude subscription support + 30+ tools + headless browser + multi-agent orchestration
 - [av1155/houndarr](https://github.com/av1155/houndarr) - Self-hosted *arr companion for controlled missing, cutoff, and upgrade searches.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
@@ -1172,6 +1173,7 @@
 
 ## ios 
 
+- [paralevel/secret-actions-for-shortcuts](https://github.com/paralevel/secret-actions-for-shortcuts) - Collection of hidden actions in Shortcuts app
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
 - [kabiroberai/theos-jailed](https://github.com/kabiroberai/theos-jailed) - A Theos module to develop jailed tweaks for iOS 8 and up
@@ -1271,6 +1273,7 @@
 
 ## llm 
 
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [RafalWilinski/mcp-apple-notes](https://github.com/RafalWilinski/mcp-apple-notes) - Talk with your notes in Claude. RAG over your Apple Notes using Model Context Protocol.
@@ -1363,6 +1366,7 @@
 
 ## macos 
 
+- [paralevel/secret-actions-for-shortcuts](https://github.com/paralevel/secret-actions-for-shortcuts) - Collection of hidden actions in Shortcuts app
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
@@ -1532,6 +1536,7 @@
 
 ## obsidian 
 
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
 
@@ -1570,7 +1575,6 @@
 ## openai 
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [CoderLuii/HolyCode](https://github.com/CoderLuii/HolyCode) - AI coding workstation: OpenCode + Claude subscription support + 30+ tools + headless browser + multi-agent orchestration
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
@@ -2260,7 +2264,6 @@
 
 ## self-hosted 
 
-- [CoderLuii/HolyCode](https://github.com/CoderLuii/HolyCode) - AI coding workstation: OpenCode + Claude subscription support + 30+ tools + headless browser + multi-agent orchestration
 - [av1155/houndarr](https://github.com/av1155/houndarr) - Self-hosted *arr companion for controlled missing, cutoff, and upgrade searches.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [Sharkord/sharkord](https://github.com/Sharkord/sharkord) - Lightweight, self-hosted, open-source chat server with voice, video, text, and screen sharing. Built for small groups who want privacy, simplicity, and full control over their data.
