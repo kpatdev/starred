@@ -267,6 +267,8 @@
 
 ## Others 
 
+- [paralevel/secret-actions-for-shortcuts](https://github.com/paralevel/secret-actions-for-shortcuts) - Collection of hidden actions in Shortcuts app
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 - [stoatchat/awesome-stoat](https://github.com/stoatchat/awesome-stoat) - Collection of Stoat libraries, bots, clients and other cool stuff.
 - [ThomasRives/Proxmox-over-wifi](https://github.com/ThomasRives/Proxmox-over-wifi) - Tutorial to make Proxmox over wifi
@@ -686,7 +688,6 @@
 
 ## Shell 
 
-- [CoderLuii/HolyCode](https://github.com/CoderLuii/HolyCode) - AI coding workstation: OpenCode + Claude subscription support + 30+ tools + headless browser + multi-agent orchestration
 - [glennvdv/opencode-dockerized](https://github.com/glennvdv/opencode-dockerized) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [fboulnois/llama-cpp-docker](https://github.com/fboulnois/llama-cpp-docker) - Run llama.cpp in a GPU accelerated Docker container
@@ -767,6 +768,7 @@
 
 ## TypeScript 
 
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 - [jaskirat-gill/InsightRAG](https://github.com/jaskirat-gill/InsightRAG) - CS319 2025W2 Project
 - [MaxBittker/rs-sdk](https://github.com/MaxBittker/rs-sdk) - Runescape automation library, optimized for use by coding agents.
 - [Sharkord/sharkord](https://github.com/Sharkord/sharkord) - Lightweight, self-hosted, open-source chat server with voice, video, text, and screen sharing. Built for small groups who want privacy, simplicity, and full control over their data.
