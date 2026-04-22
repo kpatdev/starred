@@ -359,6 +359,12 @@
 
 ## Python 
 
+- [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
+- [Yeraze/openwebui-monitor-sync](https://github.com/Yeraze/openwebui-monitor-sync) - Script to regularly sync pricing models with OpenWebUI Monitor
+- [Haervwe/open-webui-tools](https://github.com/Haervwe/open-webui-tools) - Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines, 
+- [iChristGit/OpenWebui-Tools](https://github.com/iChristGit/OpenWebui-Tools) - Custom tools to enhance your Open-Webui Experience! 🚀
+- [Classic298/prune-open-webui](https://github.com/Classic298/prune-open-webui) - 🧹 An automizable or interactive pruning tool for Open WebUI: clean up orphaned files, old chats, inactive users, stale vector data and more!
+- [Classic298/open-webui-plugins](https://github.com/Classic298/open-webui-plugins) - A curated collection of Open WebUI plugins - tools, skills, filters, pipes, and actions that extend your AI chat experience.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage your content. Functions similarly to See
@@ -651,6 +657,7 @@
 
 ## Rust 
 
+- [cometkim/op-fast](https://github.com/cometkim/op-fast) - 1Password CLI proxy for instant access to secrets.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [loyalpartner/selfsync](https://github.com/loyalpartner/selfsync) - Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
@@ -720,6 +727,7 @@
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [kneutron/ansitest](https://github.com/kneutron/ansitest) - ansible test stuff and root/bin bash scripts for Linux / OSX admins
 - [infiniteremote/installer](https://github.com/infiniteremote/installer) - Infinite Remote Installer, installs RustDesk Server and Opensource API Server, (Get an addressbook etc for free)  a True Free and OSS alternative to TeamViewer, AnyDesk etc
+- [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - ProxMenux An Interactive Menu for Proxmox VE Management
 - [almir/docker-webhook](https://github.com/almir/docker-webhook) - Dockerized https://github.com/adnanh/webhook
 - [gardengim/keepwsl](https://github.com/gardengim/keepwsl) - A simple service to keep WSL alive
 - [sirjmann92/nicotineplus-proper](https://github.com/sirjmann92/nicotineplus-proper) - Nicotine+ as a WebUI in a Docker container
@@ -772,6 +780,7 @@
 
 ## Swift 
 
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [FI-153/wyoming-apple-stt](https://github.com/FI-153/wyoming-apple-stt) - STT component for Home Assistant using Apple's on-device STT models and Wyoming protocol. Great performance, full privacy, always available
 - [JuliusBrussee/revu-swift](https://github.com/JuliusBrussee/revu-swift) - Local-first macOS study app with FSRS review, decks, study guides, exams, import/export, and a polished SwiftUI desktop interface.
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
@@ -798,6 +807,8 @@
 
 ## TypeScript 
 
+- [VariantConst/OpenWebUI-Monitor](https://github.com/VariantConst/OpenWebUI-Monitor) - A dashboard for tracking user activity and enforcing usage limits in OpenWebUI. Set user quotas efficiently.
+- [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
 - [ShaikhWarsi/free-ai-tools](https://github.com/ShaikhWarsi/free-ai-tools) - Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps
 - [ph1losof/flashbang](https://github.com/ph1losof/flashbang) - Unduck, done right, engineered from zero. Modern duck-duck-go style bang redirector benchmarked at sub-1ms median latency, 14,000+ bangs (custom+ddg+kagi), relevance-ranked address bar autocomplete, n
 - [taciturnaxolotl/unduckified](https://github.com/taciturnaxolotl/unduckified) - A fast, local-first "redirection engine" for !bang users with a few extra features ^-^
@@ -865,7 +876,6 @@
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 - [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
 - [PaulHatch/semantic-version](https://github.com/PaulHatch/semantic-version) - A GitHub Action to generate semantic version from a git repository's commit history.
-- [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - ProxMenux An Interactive Menu for Proxmox VE Management
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [miikkaylisiurunen/raycast-ai-openrouter-proxy](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy) - Integrate any OpenAI-compatible API with Raycast AI
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
