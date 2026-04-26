@@ -221,7 +221,6 @@
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [dtyq/magic](https://github.com/dtyq/magic) - Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) - PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation
 - [instructa/ai-prompts](https://github.com/instructa/ai-prompts) - Curated AI Prompts for Cursor Rules, Cline, Windsurf and Github Copilot
@@ -263,7 +262,6 @@
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [RafalWilinski/mcp-apple-notes](https://github.com/RafalWilinski/mcp-apple-notes) - Talk with your notes in Claude. RAG over your Apple Notes using Model Context Protocol.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [yorkeccak/bio](https://github.com/yorkeccak/bio) - The world's most powerful open-source bio AI assistant - Access academic literature, clinical trials, drug labels, and more, all through natural conversation.
@@ -830,6 +828,7 @@
 
 ## csharp 
 
+- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
 
@@ -1415,7 +1414,6 @@
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [RafalWilinski/mcp-apple-notes](https://github.com/RafalWilinski/mcp-apple-notes) - Talk with your notes in Claude. RAG over your Apple Notes using Model Context Protocol.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [fboulnois/llama-cpp-docker](https://github.com/fboulnois/llama-cpp-docker) - Run llama.cpp in a GPU accelerated Docker container
@@ -1507,6 +1505,7 @@
 
 ## macos 
 
+- [alinuxpengui/Macabolic](https://github.com/alinuxpengui/Macabolic) - A video and audio downloader for MacOS
 - [Intentify-app/Intentify](https://github.com/Intentify-app/Intentify) - Extends Spotlight by running JavaScript.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
@@ -1573,7 +1572,6 @@
 - [dtyq/magic](https://github.com/dtyq/magic) - Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
 - [voicetreelab/lazy-mcp](https://github.com/voicetreelab/lazy-mcp) - MCP proxy server with lazy loading support - reduces context usage through on-demand tool activation
 - [RafalWilinski/mcp-apple-notes](https://github.com/RafalWilinski/mcp-apple-notes) - Talk with your notes in Claude. RAG over your Apple Notes using Model Context Protocol.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) - A bridge between Streamable HTTP and stdio MCP transports
@@ -1621,6 +1619,7 @@
 
 ## music 
 
+- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [mixxxdj/libkeyfinder](https://github.com/mixxxdj/libkeyfinder) - Musical key detection for digital audio, GPL v3
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
@@ -1719,6 +1718,7 @@
 
 ## open-source 
 
+- [alinuxpengui/Macabolic](https://github.com/alinuxpengui/Macabolic) - A video and audio downloader for MacOS
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [iChristGit/OpenWebui-Tools](https://github.com/iChristGit/OpenWebui-Tools) - Custom tools to enhance your Open-Webui Experience! 🚀
 - [ShaikhWarsi/free-ai-tools](https://github.com/ShaikhWarsi/free-ai-tools) - Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps
@@ -1755,7 +1755,6 @@
 - [VizzleTF/CommitSage](https://github.com/VizzleTF/CommitSage) - Commit Sage is a VSCode extension that automatically generates commit messages
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.
@@ -1826,6 +1825,7 @@
 
 ## others 
 
+- [o1xhack/CodexBar](https://github.com/o1xhack/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [ProtonMail/proton-bridge](https://github.com/ProtonMail/proton-bridge) - Proton Mail Bridge application
 - [threeplanetssoftware/apple_cloud_notes_parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser) - Parser for Apple Notes data stored on the Cloud as seen on Apple handsets
 - [keithvassallomt/icloudbridge](https://github.com/keithvassallomt/icloudbridge) - A utility to sync Apple Notes, Reminders, Passwords and Photos to other services, with a focus on NextCloud.
@@ -1837,7 +1837,7 @@
 - [cometkim/op-fast](https://github.com/cometkim/op-fast) - 1Password CLI proxy for instant access to secrets.
 - [Yeraze/openwebui-monitor-sync](https://github.com/Yeraze/openwebui-monitor-sync) - Script to regularly sync pricing models with OpenWebUI Monitor
 - [VariantConst/OpenWebUI-Monitor](https://github.com/VariantConst/OpenWebUI-Monitor) - A dashboard for tracking user activity and enforcing usage limits in OpenWebUI. Set user quotas efficiently.
-- [loyalpartner/selfsync](https://github.com/loyalpartner/selfsync) - Self-hosted Chrome Sync server. 自托管 Chrome 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google
+- [loyalpartner/selfsync](https://github.com/loyalpartner/selfsync) - Self-hosted Chrome / Edge Sync server. 自托管 Chrome / Edge 同步服务器 — 书签、密码、偏好等浏览器数据留在本地，不经过 Google 或 Microsoft
 - [taciturnaxolotl/unduckified](https://github.com/taciturnaxolotl/unduckified) - A fast, local-first "redirection engine" for !bang users with a few extra features ^-^
 - [dmlls/yang](https://github.com/dmlls/yang) - Yang! - Yet Another Bangs anywhere extension
 - [samssausages/Tdarr-One-Flow](https://github.com/samssausages/Tdarr-One-Flow) - Set of flows for Tdarr.  Also lots of ffmpeg resources on how to use various encoders
@@ -1864,6 +1864,7 @@
 - [T3-Content/unduck](https://github.com/T3-Content/unduck) - A fast, local-first "search engine" for !bang users
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui) - Open CoreUI - A rewritten Open WebUI in Rust, significantly reducing memory and resource usage, requiring no dependency services, no Docker, with both a server version and a Tauri-based desktop client
 - [castai/openwebui-content-sync](https://github.com/castai/openwebui-content-sync) - Tool to maintain syncronization of RAG knowledge for OpenWebUI
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
@@ -2353,7 +2354,6 @@
 ## rag 
 
 - [RafalWilinski/mcp-apple-notes](https://github.com/RafalWilinski/mcp-apple-notes) - Talk with your notes in Claude. RAG over your Apple Notes using Model Context Protocol.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) - PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation
@@ -2620,6 +2620,7 @@
 
 ## swift 
 
+- [alinuxpengui/Macabolic](https://github.com/alinuxpengui/Macabolic) - A video and audio downloader for MacOS
 - [Intentify-app/Intentify](https://github.com/Intentify-app/Intentify) - Extends Spotlight by running JavaScript.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [JuliusBrussee/revu-swift](https://github.com/JuliusBrussee/revu-swift) - Local-first macOS study app with FSRS review, decks, study guides, exams, import/export, and a polished SwiftUI desktop interface.
@@ -2828,6 +2829,7 @@
 
 ## windows 
 
+- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
@@ -2852,6 +2854,7 @@
 
 ## youtube 
 
+- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
