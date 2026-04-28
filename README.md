@@ -184,6 +184,7 @@
 
 ## JavaScript 
 
+- [NVSRahul/custcli](https://github.com/NVSRahul/custcli) - Use Gemini CLI with OpenCode through a local planner, reviewer, and session loop with self learning architrecture.
 - [DMJoh/Mediqux](https://github.com/DMJoh/Mediqux) - A privacy-first, locally-hosted medical record system for individuals, families, and small healthcare practices - featuring comprehensive patient management, lab result processing, and medication trac
 - [dmlls/yang](https://github.com/dmlls/yang) - Yang! - Yet Another Bangs anywhere extension
 - [samssausages/Tdarr-One-Flow](https://github.com/samssausages/Tdarr-One-Flow) - Set of flows for Tdarr.  Also lots of ffmpeg resources on how to use various encoders
@@ -284,6 +285,7 @@
 
 ## Others 
 
+- [rebelytics/one-skill-to-rule-them-all](https://github.com/rebelytics/one-skill-to-rule-them-all) - The meta-skill that builds and improves all your skills, including itself. A skill that watches your work sessions, captures corrections and judgment calls, and turns them into skill improvements auto
 - [paralevel/ios-settings-urls](https://github.com/paralevel/ios-settings-urls) - Settings URL schemes for iOS 26
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -312,7 +314,7 @@
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [pgale/lineage_15.1_Installation_TSV](https://github.com/pgale/lineage_15.1_Installation_TSV) - Lenovo ThinkSmart View Lineage 15.1 installation guide
@@ -498,7 +500,7 @@
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) - A middleware to provide an openAI compatible endpoint that can call MCP tools
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) - 
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build in any framework. Run as a service. Ship to real users.
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [savbell/whisper-writer](https://github.com/savbell/whisper-writer) - 💬📝 A small dictation app using OpenAI's Whisper speech recognition model.
@@ -717,7 +719,7 @@
 - [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 - [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
 - [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex hubs
 - [shouya/rss-funnel](https://github.com/shouya/rss-funnel) - Self-hosted RSS multi-tool
@@ -820,6 +822,7 @@
 
 ## TypeScript 
 
+- [dmilin1/hydra](https://github.com/dmilin1/hydra) - A Reddit reader app based on Apollo that doesn't need an API key to function
 - [pajecawav/better-hn](https://github.com/pajecawav/better-hn) - An alternative frontend for Hacker News
 - [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
 - [AhmedOsman101/commit-sage-cli](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI. Supports OpenAI, Ollama, and Gemini.
