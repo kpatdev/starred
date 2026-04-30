@@ -368,6 +368,8 @@
 
 ## Python 
 
+- [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format).
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [GeorgiKeranov/facebook-marketplace-bot](https://github.com/GeorgiKeranov/facebook-marketplace-bot) - Facebook marketplace bot that automatically removes and uploads listings from CSV Files. This way listings are seen by more people and that leads to selling them faster
 - [keithvassallomt/icloudbridge](https://github.com/keithvassallomt/icloudbridge) - A utility to sync Apple Notes, Reminders, Passwords and Photos to other services, with a focus on NextCloud.
 - [rfsbraz/huntarr-security-review](https://github.com/rfsbraz/huntarr-security-review) - 
@@ -537,7 +539,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
-- [stevezau/plex_generate_vid_previews](https://github.com/stevezau/plex_generate_vid_previews) - GPU-accelerated video preview thumbnail (BIF) generation for Plex Media Server. Docker-ready with NVIDIA/AMD/Intel support, web UI, scheduling, and Radarr/Sonarr webhooks.
+- [stevezau/media_preview_generator](https://github.com/stevezau/media_preview_generator) - GPU-accelerated video preview thumbnail (BIF) generation for Plex Media Server. Docker-ready with NVIDIA/AMD/Intel support, web UI, scheduling, and Radarr/Sonarr webhooks.
 - [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
@@ -706,7 +708,7 @@
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic. Now part of Digit
+- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
 - [LeeeSe/MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码；Automatic extraction of 2FA codes from iMassage and Mail App for Mac platform
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
@@ -799,7 +801,7 @@
 ## Swift 
 
 - [alinuxpengui/Macabolic](https://github.com/alinuxpengui/Macabolic) - A video and audio downloader for MacOS
-- [o1xhack/CodexBar](https://github.com/o1xhack/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+- [o1xhack/CodexBar-Mobile](https://github.com/o1xhack/CodexBar-Mobile) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [Intentify-app/Intentify](https://github.com/Intentify-app/Intentify) - Extends Spotlight by running JavaScript.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [FI-153/wyoming-apple-stt](https://github.com/FI-153/wyoming-apple-stt) - STT component for Home Assistant using Apple's on-device STT models and Wyoming protocol. Great performance, full privacy, always available
