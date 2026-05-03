@@ -2021,7 +2021,7 @@
 - [Ipmake/NevuForPlex](https://github.com/Ipmake/NevuForPlex) - Nevu is a complete redesign of Plex's UI using the plex media server API.
 - [2Shad/OCI-Idle-Avoidance](https://github.com/2Shad/OCI-Idle-Avoidance) - A set of scripts designed to maintain a minimum level of CPU usage on Oracle Cloud VMs, preventing them from being reclaimed due to idling. Ideal for environments with fluctuating resource demands.
 - [driftywinds/YTLitePlus](https://github.com/driftywinds/YTLitePlus) - A modified version of Youtube for iOS supercharged with YTLite (by @dayanch96) and +20 tweaks
-- [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
+- [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Advanced download manager for the Servarr ecosystem
 - [Cirx08/WeddingShare](https://github.com/Cirx08/WeddingShare) - A place for guests to view and drop pictures of the big day
 - [hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors](https://github.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors) - 
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
