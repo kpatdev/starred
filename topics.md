@@ -2029,7 +2029,6 @@
 - [PaulHatch/semantic-version](https://github.com/PaulHatch/semantic-version) - A GitHub Action to generate semantic version from a git repository's commit history.
 - [infiniteremote/installer](https://github.com/infiniteremote/installer) - Infinite Remote Installer, installs RustDesk Server and Opensource API Server, (Get an addressbook etc for free)  a True Free and OSS alternative to TeamViewer, AnyDesk etc
 - [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - ProxMenux An Interactive Menu for Proxmox VE Management
-- [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [keithah/tessie-mcp](https://github.com/keithah/tessie-mcp) - 🚗 Advanced Tesla MCP Server - Intelligent analytics, cost optimization, and predictive insights through Tessie API
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
@@ -2128,7 +2127,6 @@
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [danrahn/MarkerEditorForPlex](https://github.com/danrahn/MarkerEditorForPlex) - View, edit, add, and delete intro, credits, and commercial markers for your Plex media.
 - [nickzman/symboliclinker](https://github.com/nickzman/symboliclinker) - A contextual menu plugin & service for macOS that allows users to make symbolic links in the Finder
-- [nwithan8/plex-prerolls](https://github.com/nwithan8/plex-prerolls) - Schedule Plex Pre-Roll listings
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [cbrherms/docker-media-scripts](https://github.com/cbrherms/docker-media-scripts) - Dockerised chazlarson/Media-Scripts
 - [dogbutcat/gclone](https://github.com/dogbutcat/gclone) - fork from https://github.com/donwa/gclone
