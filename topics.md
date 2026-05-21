@@ -1918,7 +1918,7 @@
 - [GeorgiKeranov/facebook-marketplace-bot](https://github.com/GeorgiKeranov/facebook-marketplace-bot) - Facebook marketplace bot that automatically removes and uploads listings from CSV Files. This way listings are seen by more people and that leads to selling them faster
 - [BoPeng/ai-marketplace-monitor](https://github.com/BoPeng/ai-marketplace-monitor) - Monitor facebook marketplace with AI
 - [dmilin1/hydra](https://github.com/dmilin1/hydra) - A Reddit reader app based on Apollo that doesn't need an API key to function
-- [rebelytics/one-skill-to-rule-them-all](https://github.com/rebelytics/one-skill-to-rule-them-all) - The meta-skill that builds and improves all your skills, including itself. A skill that watches your work sessions, captures corrections and judgment calls, and turns them into skill improvements auto
+- [rebelytics/one-skill-to-rule-them-all](https://github.com/rebelytics/one-skill-to-rule-them-all) - The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captures corrections and judgement calls, and turns them into skill improvements automatically. P
 - [DMJoh/Mediqux](https://github.com/DMJoh/Mediqux) - A privacy-first, locally-hosted medical record system for individuals, families, and small healthcare practices - featuring comprehensive patient management, lab result processing, and medication trac
 - [o1xhack/CodexBar-Mobile](https://github.com/o1xhack/CodexBar-Mobile) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [ProtonMail/proton-bridge](https://github.com/ProtonMail/proton-bridge) - Proton Mail Bridge application
@@ -2174,7 +2174,7 @@
 - [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai) - SearchGPT / Perplexity clone, but personalised for you.
 - [jjleng/sensei](https://github.com/jjleng/sensei) - Yet another open source Perplexity
 - [GilgameshofUT/AIResearcher](https://github.com/GilgameshofUT/AIResearcher) - 
-- [InsertDisc/pattrmm](https://github.com/InsertDisc/pattrmm) - Plex Meta Manager helper script for a chronological Returning Soon collection with dates.
+- [InsertDisc/pattrmm](https://github.com/InsertDisc/pattrmm) - Kometa helper script for a chronological Returning Soon collection with dates.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [shtse8/Google-Photos-Delete-Tool](https://github.com/shtse8/Google-Photos-Delete-Tool) - This tool provides an efficient, stable, and automated way to delete multiple photos from Google Photos. It's now available as a Chrome extension for easier use, but you can also use the script inject
 - [Torwent/wasp-free](https://github.com/Torwent/wasp-free) - Free WaspBots Scripts
