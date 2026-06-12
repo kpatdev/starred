@@ -448,7 +448,7 @@
 - [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
 - [ziozzang/claude2openai-proxy](https://github.com/ziozzang/claude2openai-proxy) - Claude API client to OpenAI API compatible API gateway/proxy. This can run Claude-Code with OpenAI API
 - [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
-- [jahwag/ClaudeSync](https://github.com/jahwag/ClaudeSync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
+- [jahwag/ctxsync](https://github.com/jahwag/ctxsync) - ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects
 - [RichardAtCT/claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) - OpenAI API-compatible wrapper for Claude Code
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
 - [Eigenwise/atomic-agents](https://github.com/Eigenwise/atomic-agents) - Building AI agents, atomically
