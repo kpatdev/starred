@@ -77,6 +77,7 @@
 
 ## C++ 
 
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
@@ -242,7 +243,7 @@
 - [derekantrican/GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) - A Google Apps Script for syncing ICS/ICAL files faster than the current Google Calendar speed
 - [lpg0/plaid-transaction-script](https://github.com/lpg0/plaid-transaction-script) - Automate bank transaction data using the Plaid API into Google Sheets
 - [williamlmao/plaid-to-gsheets](https://github.com/williamlmao/plaid-to-gsheets) - Automate a personal finance dashboard using the Plaid API, Google Sheets, and Data Studio. Build transformation rules to categorize everything to your liking. Easily add data from non-plaid sources. T
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
 
 ## Jinja 
 
@@ -371,6 +372,7 @@
 
 ## Python 
 
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [open-webui/oikb](https://github.com/open-webui/oikb) - Sync anything to Open WebUI Knowledge Bases
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
@@ -444,7 +446,6 @@
 - [jaraco/googlevoice](https://github.com/jaraco/googlevoice) - Python Google Voice library based on pygooglevoice
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) - A bridge between Streamable HTTP and stdio MCP transports
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 - [botingw/rulebook-ai](https://github.com/botingw/rulebook-ai) - Elevate vibe coding to vibe engineering: Get consistent Github Copilot custom instructions, Cursor, Roo Code, Cline, Windsurf, Claude Code, Gemini Cli, Codex CLI, kilo code, warp custom rules via a un
@@ -846,6 +847,7 @@
 
 ## TypeScript 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [galatolofederico/moonpi](https://github.com/galatolofederico/moonpi) - opinionated set of extensions for pi
 - [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder) - A harness optimized to smaller LLMs
