@@ -6,6 +6,7 @@
 ## Contents
 
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -246,6 +247,10 @@
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+
+## agent-skills 
+
+- [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.
 
 ## agents 
 
@@ -1311,7 +1316,7 @@
 
 ## home-assistant 
 
-- [FI-153/wyoming-apple-stt](https://github.com/FI-153/wyoming-apple-stt) - STT component for Home Assistant using Apple's on-device STT models and Wyoming protocol. Great performance, full privacy, always available
+- [FI-153/wyoming-apple-stt](https://github.com/FI-153/wyoming-apple-stt) - Speech-To-Text component for Home Assistant using Apple's on-device STT models and Wyoming protocol. Great performance, full privacy, always available
 - [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) - Flightradar24 integration for Home Assistant
 - [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
 - [thomluther/ha-anker-solix](https://github.com/thomluther/ha-anker-solix) - Home Assistant integration for Anker Solix Power devices
