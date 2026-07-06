@@ -299,7 +299,7 @@
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential workflows. On Windows & MacOS. Perfect for government, defence, legal and CXOs.
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI notepad for all your confidential conversations. On Windows & MacOS. Perfect for government, defence, legal and CXOs.
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
@@ -2070,7 +2070,6 @@
 - [keithvassallomt/icloudbridge](https://github.com/keithvassallomt/icloudbridge) - A utility to sync Apple Notes, Reminders, Passwords and Photos to other services, with a focus on NextCloud.
 - [pajecawav/better-hn](https://github.com/pajecawav/better-hn) - An alternative frontend for Hacker News
 - [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
-- [rfsbraz/huntarr-security-review](https://github.com/rfsbraz/huntarr-security-review) - 
 - [VibingJustSpeakIt/Vibing](https://github.com/VibingJustSpeakIt/Vibing) - 
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [cometkim/op-fast](https://github.com/cometkim/op-fast) - 1Password CLI proxy for instant access to secrets.
@@ -2416,7 +2415,7 @@
 ## privacy 
 
 - [moona3k/macparakeet](https://github.com/moona3k/macparakeet) - Fast, local voice app for Mac — system-wide dictation, file & YouTube transcription, and meeting recording. Powered by Parakeet TDT on Apple Silicon. Free and open-source.
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential workflows. On Windows & MacOS. Perfect for government, defence, legal and CXOs.
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI notepad for all your confidential conversations. On Windows & MacOS. Perfect for government, defence, legal and CXOs.
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.
 - [ph1losof/flashbang](https://github.com/ph1losof/flashbang) - Unduck done right: zero-deps, sub-1ms DuckDuckGo-style bang/snap redirector with 14,000+ DDG/Kagi/custom bangs, address bar autocomplete, no tracking.
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -2738,6 +2737,7 @@
 
 ## security 
 
+- [rfsbraz/huntarr-security-review](https://github.com/rfsbraz/huntarr-security-review) - Reproducible lab proving an unauthenticated authentication-bypass in Huntarr (v9.4.2): any endpoint is callable with zero credentials, leaking Huntarr's own passwords and the API keys of every *arr ap
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
@@ -3124,7 +3124,7 @@
 
 ## windows 
 
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential workflows. On Windows & MacOS. Perfect for government, defence, legal and CXOs.
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI notepad for all your confidential conversations. On Windows & MacOS. Perfect for government, defence, legal and CXOs.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [NVSRahul/custcli](https://github.com/NVSRahul/custcli) - Use Gemini CLI with OpenCode through a local planner, reviewer, and session loop with self learning architrecture.
