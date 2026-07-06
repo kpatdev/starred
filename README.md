@@ -397,13 +397,14 @@
 - [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format).
 - [GeorgiKeranov/facebook-marketplace-bot](https://github.com/GeorgiKeranov/facebook-marketplace-bot) - Facebook marketplace bot that automatically removes and uploads listings from CSV Files. This way listings are seen by more people and that leads to selling them faster
 - [keithvassallomt/icloudbridge](https://github.com/keithvassallomt/icloudbridge) - A utility to sync Apple Notes, Reminders, Passwords and Photos to other services, with a focus on NextCloud.
-- [rfsbraz/huntarr-security-review](https://github.com/rfsbraz/huntarr-security-review) - 
+- [rfsbraz/huntarr-security-review](https://github.com/rfsbraz/huntarr-security-review) - Reproducible lab proving an unauthenticated authentication-bypass in Huntarr (v9.4.2): any endpoint is callable with zero credentials, leaking Huntarr's own passwords and the API keys of every *arr ap
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 - [Yeraze/openwebui-monitor-sync](https://github.com/Yeraze/openwebui-monitor-sync) - Script to regularly sync pricing models with OpenWebUI Monitor
 - [Haervwe/open-webui-tools](https://github.com/Haervwe/open-webui-tools) - Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines, 
 - [iChristGit/OpenWebui-Tools](https://github.com/iChristGit/OpenWebui-Tools) - Custom tools to enhance your Open-Webui Experience! 🚀
 - [Classic298/prune-open-webui](https://github.com/Classic298/prune-open-webui) - 🧹 An automizable or interactive pruning tool for Open WebUI: clean up orphaned files, old chats, inactive users, stale vector data and more!
 - [Classic298/open-webui-plugins](https://github.com/Classic298/open-webui-plugins) - A curated collection of Open WebUI plugins - tools, skills, filters, pipes, actions and events that extend your AI chat experience.
+- [FI-153/wyoming-apple-stt](https://github.com/FI-153/wyoming-apple-stt) - Speech-To-Text component for Home Assistant using Apple's on-device STT models and Wyoming protocol. Great performance, full privacy, always available
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
@@ -834,7 +835,6 @@
 - [o1xhack/CodexBar-Mobile](https://github.com/o1xhack/CodexBar-Mobile) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [Intentify-app/Intentify](https://github.com/Intentify-app/Intentify) - Extends Spotlight by running JavaScript.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
-- [FI-153/wyoming-apple-stt](https://github.com/FI-153/wyoming-apple-stt) - Speech-To-Text component for Home Assistant using Apple's on-device STT models and Wyoming protocol. Great performance, full privacy, always available
 - [JuliusBrussee/revu-swift](https://github.com/JuliusBrussee/revu-swift) - Local-first macOS study app with FSRS review, decks, study guides, exams, import/export, and a polished SwiftUI desktop interface.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
@@ -868,7 +868,7 @@
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [galatolofederico/moonpi](https://github.com/galatolofederico/moonpi) - opinionated set of extensions for pi
 - [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder) - A harness optimized to smaller LLMs
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential workflows. On Windows & MacOS. Perfect for government, defence, legal and CXOs.
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI notepad for all your confidential conversations. On Windows & MacOS. Perfect for government, defence, legal and CXOs.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [Zoo-Code-Org/Zoo-Code](https://github.com/Zoo-Code-Org/Zoo-Code) - Zoo Code gives you a whole dev team of AI agents in your code editor.
 - [grojeda/opencode-config](https://github.com/grojeda/opencode-config) - 
