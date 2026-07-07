@@ -860,12 +860,13 @@
 
 ## TypeScript 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The Vibe Design Workspace & the open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, imag
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [MasuRii/pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer) - Pi extension that optimizes RTK command rewriting and tool output compaction for the coding agent.
 - [tmustier/pi-extensions](https://github.com/tmustier/pi-extensions) - A set of delightful extensions for Pi
 - [zosmaai/zosma-cowork](https://github.com/zosmaai/zosma-cowork) - Desktop GUI for the pi coding agent — open-source Claude Cowork alternative
 - [abhinand5/pi-setup](https://github.com/abhinand5/pi-setup) - Personal Pi coding agent setup
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
+- [cameraui/camera.ui](https://github.com/cameraui/camera.ui) - The modern, local-first platform for professional video surveillance — built for maximum flexibility and ease of use.
 - [galatolofederico/moonpi](https://github.com/galatolofederico/moonpi) - opinionated set of extensions for pi
 - [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder) - A harness optimized to smaller LLMs
 - [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI notepad for all your confidential conversations. On Windows & MacOS. Perfect for government, defence, legal and CXOs.
@@ -1039,7 +1040,6 @@
 
 ## Vue 
 
-- [cameraui/camera.ui](https://github.com/cameraui/camera.ui) - NVR like user Interface for RTSP capable cameras
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [caddymanager/caddymanager](https://github.com/caddymanager/caddymanager) - Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
