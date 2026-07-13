@@ -382,6 +382,7 @@
 
 ## Python 
 
+- [open-webui/computer](https://github.com/open-webui/computer) - Your Computer. Anywhere.
 - [ianustec/openwebui-generate-documents](https://github.com/ianustec/openwebui-generate-documents) - Native Word (.docx) generator tool for Open WebUI — Markdown/JSON in, cover pages, styled tables, callouts, TOC out. MIT.
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
