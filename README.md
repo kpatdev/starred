@@ -193,6 +193,7 @@
 
 ## JavaScript 
 
+- [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [caezium/zen-page-tint](https://github.com/caezium/zen-page-tint) - Minimal, snappy adaptive chrome color for Zen Browser. Tuned for performance, heavy 1000+ tab sessions.
@@ -627,7 +628,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [alexdredmon/arcode](https://github.com/alexdredmon/arcode) - 🕹️ AI development tool
+- [alexandriax/arcode](https://github.com/alexandriax/arcode) - 🕹️ AI development tool
 - [GilgameshofUT/AIResearcher](https://github.com/GilgameshofUT/AIResearcher) - 
 - [SamurAIGPT/AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) - Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping —
 - [InsertDisc/pattrmm](https://github.com/InsertDisc/pattrmm) - Kometa helper script for a chronological Returning Soon collection with dates.
@@ -743,7 +744,7 @@
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [nikivdev/code](https://github.com/nikivdev/code) - 
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with smart LLM routing, agent orchestration, observability, and guardrails so you stay focused on your agents core logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.
 - [LeeeSe/MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码；Automatic extraction of 2FA codes from iMassage and Mail App for Mac platform
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -777,6 +778,7 @@
 
 ## Shell 
 
+- [RemoteToHome-io/gl-tailscale-fix](https://github.com/RemoteToHome-io/gl-tailscale-fix) - Tailscale enhancements for GL.iNet routers - exit node advertisement, policy kill switch, guest network routing, GL subnet routing fix, version management
 - [swelljoe/tandem](https://github.com/swelljoe/tandem) - Take an agent buddy with you when you ssh
 - [glennvdv/opencode-dockerized](https://github.com/glennvdv/opencode-dockerized) - 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -868,6 +870,8 @@
 
 ## TypeScript 
 
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [riffado/riffado](https://github.com/riffado/riffado) - Self-hosted AI transcription interface for Plaud Note devices
 - [aliou/pi-guardrails](https://github.com/aliou/pi-guardrails) - Security hooks for Pi. Prevents dangerous operations, protects env files, gates destructive commands.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
@@ -880,7 +884,7 @@
 - [cameraui/camera.ui](https://github.com/cameraui/camera.ui) - The modern, local-first platform for professional video surveillance.
 - [galatolofederico/moonpi](https://github.com/galatolofederico/moonpi) - opinionated set of extensions for pi
 - [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder) - A harness optimized to smaller LLMs
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the privacy-first AI notepad for all your confidential conversations. On Windows & MacOS. Perfect for government, healthcare, defence, legal and CXOs.
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the privacy-first AI notepad & notetaker for all your confidential conversations. On Windows & MacOS. Perfect for government, healthcare, defence, legal and CXOs.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [Zoo-Code-Org/Zoo-Code](https://github.com/Zoo-Code-Org/Zoo-Code) - Zoo Code gives you a whole dev team of AI agents in your code editor.
 - [grojeda/opencode-config](https://github.com/grojeda/opencode-config) - 
