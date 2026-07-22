@@ -193,6 +193,7 @@
 
 ## JavaScript 
 
+- [kuba-guzik/caveman-micro](https://github.com/kuba-guzik/caveman-micro) - 6-line caveman micro prompt (85 tokens) that outperformed the original 552-token skill. Benchmark on Claude Sonnet + Opus included.
 - [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
@@ -308,6 +309,7 @@
 
 ## Others 
 
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
 - [pim97/anti-detect-browser-tools-tech-comparison](https://github.com/pim97/anti-detect-browser-tools-tech-comparison) - Technical deep-dives into web scraping & anti-bot bypass tools. Honest analysis of Botasaurus, Patchright, XDriver and more. Learn what actually works to bypass Cloudflare, DataDome, Akamai and other 
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [spaceadler/A-Small-Fluxer-Guide-for-Tailscale-and-Nginx](https://github.com/spaceadler/A-Small-Fluxer-Guide-for-Tailscale-and-Nginx) - A guide patched together after spending 5 hours poking Fluxer and trying to get it to work with my Tailscale/Nginx homelab.
@@ -386,6 +388,7 @@
 
 ## Python 
 
+- [latent-spaces/brag](https://github.com/latent-spaces/brag) - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.
 - [ChaoticSi1ence/SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo) - SlimBrave Neo — Debloat and harden Brave Browser on Linux and Windows. Python curses TUI + CLI. Zero dependencies.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
@@ -871,6 +874,8 @@
 
 ## TypeScript 
 
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- [crawlseo/crawlseo](https://github.com/crawlseo/crawlseo) - Open-source SEO monitoring. GSC + Site Crawler + Core Web Vitals in one dashboard.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [riffado/riffado](https://github.com/riffado/riffado) - Self-hosted AI transcription interface for Plaud Note devices
