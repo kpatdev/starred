@@ -167,7 +167,6 @@
 
 - [BoPeng/ai-marketplace-monitor](https://github.com/BoPeng/ai-marketplace-monitor) - Monitor facebook marketplace with AI
 - [VibingJustSpeakIt/Vibing](https://github.com/VibingJustSpeakIt/Vibing) - 
-- [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [KelTech-Services/MediaRoulette](https://github.com/KelTech-Services/MediaRoulette) - Can't decide what to watch? MediaRoulette randomly picks movies and TV shows from your Plex library.
 - [baxterblk/unraid-2-compose](https://github.com/baxterblk/unraid-2-compose) - Turn your unRAID XML files into docker-compose.yml and add AutoKuma labels to your docker-compose.yml files.
 - [icbestCA/giftmanager](https://github.com/icbestCA/giftmanager) - Gift ideas manager for families. See the demo here: https://giftmanagerdemo.pages.dev/
@@ -419,7 +418,7 @@
 - [iChristGit/OpenWebui-Tools](https://github.com/iChristGit/OpenWebui-Tools) - Custom tools to enhance your Open-Webui Experience! 🚀
 - [Classic298/prune-open-webui](https://github.com/Classic298/prune-open-webui) - 🧹 An automizable or interactive pruning tool for Open WebUI: clean up orphaned files, old chats, inactive users, stale vector data and more!
 - [Classic298/open-webui-plugins](https://github.com/Classic298/open-webui-plugins) - A curated collection of Open WebUI plugins - tools, skills, filters, pipes, actions and events that extend your AI chat experience.
-- [FI-153/wyoming-apple-speech](https://github.com/FI-153/wyoming-apple-speech) - Speech-To-Text component for Home Assistant using Apple's on-device STT models and Wyoming protocol. Great performance, full privacy, always available
+- [FI-153/wyoming-apple-speech](https://github.com/FI-153/wyoming-apple-speech) - Speech-To-Text and Text-To-Speech component for Home Assistant using Apple's on-device STT and TTS models and Wyoming protocol. Great performance, full privacy, always available
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
@@ -571,7 +570,7 @@
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 - [jsavargas/telethon_downloader](https://github.com/jsavargas/telethon_downloader) - 
@@ -876,6 +875,8 @@
 
 ## TypeScript 
 
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
+- [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -928,6 +929,7 @@
 - [MaxBittker/rs-sdk](https://github.com/MaxBittker/rs-sdk) - Runescape automation library, optimized for use by coding agents.
 - [Sharkord/sharkord](https://github.com/Sharkord/sharkord) - Lightweight, self-hosted, open-source chat server with voice, video, text, and screen sharing. Built for small groups who want privacy, simplicity, and full control over their data.
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
+- [itskovacs/trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
