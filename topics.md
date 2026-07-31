@@ -427,6 +427,7 @@
 
 ## ai-agents 
 
+- [Grey-Iris/easy-notion-mcp](https://github.com/Grey-Iris/easy-notion-mcp) - Markdown-first Notion MCP server. 42 tools, ~6–7× fewer response tokens vs the official Notion MCP, full round-trip fidelity
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
@@ -797,6 +798,7 @@
 
 ## claude 
 
+- [Grey-Iris/easy-notion-mcp](https://github.com/Grey-Iris/easy-notion-mcp) - Markdown-first Notion MCP server. 42 tools, ~6–7× fewer response tokens vs the official Notion MCP, full round-trip fidelity
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [ianjwhite99/opencode-with-claude](https://github.com/ianjwhite99/opencode-with-claude) - OpenCode plugin to use your Claude Max/Pro subscription with OpenCode via Meridian
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
@@ -1777,6 +1779,7 @@
 
 ## markdown 
 
+- [Grey-Iris/easy-notion-mcp](https://github.com/Grey-Iris/easy-notion-mcp) - Markdown-first Notion MCP server. 42 tools, ~6–7× fewer response tokens vs the official Notion MCP, full round-trip fidelity
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -1791,6 +1794,7 @@
 
 ## mcp 
 
+- [Grey-Iris/easy-notion-mcp](https://github.com/Grey-Iris/easy-notion-mcp) - Markdown-first Notion MCP server. 42 tools, ~6–7× fewer response tokens vs the official Notion MCP, full round-trip fidelity
 - [RoggeOhta/awesome-codex-cli](https://github.com/RoggeOhta/awesome-codex-cli) - Curated list of 150+ tools, skills, subagents & plugins for OpenAI Codex CLI
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -2092,6 +2096,7 @@
 
 ## others 
 
+- [Doist/todoist-mcp](https://github.com/Doist/todoist-mcp) - A set of tools to connect to AI agents, to allow them to use Todoist on a user's behalf. Includes MCP support.
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
 - [kuba-guzik/caveman-micro](https://github.com/kuba-guzik/caveman-micro) - 6-line caveman micro prompt (85 tokens) that outperformed the original 552-token skill. Benchmark on Claude Sonnet + Opus included.
@@ -3095,6 +3100,7 @@
 
 ## typescript 
 
+- [Grey-Iris/easy-notion-mcp](https://github.com/Grey-Iris/easy-notion-mcp) - Markdown-first Notion MCP server. 42 tools, ~6–7× fewer response tokens vs the official Notion MCP, full round-trip fidelity
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [crawlseo/crawlseo](https://github.com/crawlseo/crawlseo) - Open-source SEO monitoring. GSC + Site Crawler + Core Web Vitals in one dashboard.
