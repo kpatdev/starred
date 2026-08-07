@@ -373,7 +373,7 @@
 - [l4rm4nd/Obsidian-Gitsync-Perlite](https://github.com/l4rm4nd/Obsidian-Gitsync-Perlite) - Docker container to continuously sync Obsidian markdown notes from GitHub and publish it for the webs
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 17 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 26 languages.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 
 ## Pascal 
@@ -390,6 +390,7 @@
 
 ## Python 
 
+- [antoniorodr/memo](https://github.com/antoniorodr/memo) - Memo is a simple command-line interface (CLI) tool for managing your Apple Notes and Apple Reminders. It’s written in Python and aims to offer a fast, keyboard-driven way to create, search, and organi
 - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
@@ -790,6 +791,7 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [RemoteToHome-io/gl-tailscale-fix](https://github.com/RemoteToHome-io/gl-tailscale-fix) - Tailscale enhancements for GL.iNet routers - exit node advertisement, policy kill switch, guest network routing, GL subnet routing fix, version management
 - [swelljoe/tandem](https://github.com/swelljoe/tandem) - Take an agent buddy with you when you ssh
 - [glennvdv/opencode-dockerized](https://github.com/glennvdv/opencode-dockerized) - 
@@ -884,6 +886,7 @@
 
 ## TypeScript 
 
+- [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
@@ -891,7 +894,7 @@
 - [Grey-Iris/easy-notion-mcp](https://github.com/Grey-Iris/easy-notion-mcp) - Markdown-first Notion MCP server. 42 tools, ~6–7× fewer response tokens vs the official Notion MCP, full round-trip fidelity
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [crawlseo/crawlseo](https://github.com/crawlseo/crawlseo) - Open-source SEO monitoring. GSC + Site Crawler + Core Web Vitals in one dashboard.
