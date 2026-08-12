@@ -118,6 +118,7 @@
 ## Go 
 
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [ProtonMail/proton-bridge](https://github.com/ProtonMail/proton-bridge) - Proton Mail Bridge application
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -206,7 +207,6 @@
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [thoughtsunificator/instagram-dm-unsender](https://github.com/thoughtsunificator/instagram-dm-unsender) - Userscript that allows you to mass unsend all your DMs on Instagram
 - [theahura/shoot-the-messenger](https://github.com/theahura/shoot-the-messenger) - Script to auto-unsend all messages from a facebook messenger chat
 - [NVSRahul/custcli](https://github.com/NVSRahul/custcli) - Use Gemini CLI with OpenCode through a local planner, reviewer, and session loop with self learning architrecture.
@@ -549,7 +549,7 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [win4r/GraphRAG4OpenWebUI](https://github.com/win4r/GraphRAG4OpenWebUI) - GraphRAG4OpenWebUI integrates Microsoft's GraphRAG technology into Open WebUI, providing a versatile information retrieval API. It combines local, global, and web searches for advanced Q&A systems and
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [B00TK1D/copilot-api](https://github.com/B00TK1D/copilot-api) - GitHub Copilot API
