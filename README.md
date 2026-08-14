@@ -39,6 +39,7 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [Text](#text)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -222,7 +223,6 @@
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [renovatebot/renovate-approve-bot](https://github.com/renovatebot/renovate-approve-bot) - 
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [GongRzhe/Gmail-MCP-Server](https://github.com/GongRzhe/Gmail-MCP-Server) - A Model Context Protocol (MCP) server for Gmail integration in Claude Desktop with auto authentication support. This server enables AI assistants to manage Gmail through natural language interactions.
 - [instructa/ai-prompts](https://github.com/instructa/ai-prompts) - Curated AI Prompts for Cursor Rules, Cline, Windsurf and Github Copilot
 - [Yuyz0112/claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse) - A Tool to Visualize Claude Code's LLM Interactions
@@ -328,6 +328,7 @@
 - [stoatchat/awesome-stoat](https://github.com/stoatchat/awesome-stoat) - Collection of Stoat libraries, bots, clients and other cool stuff.
 - [ThomasRives/Proxmox-over-wifi](https://github.com/ThomasRives/Proxmox-over-wifi) - Tutorial to make Proxmox over wifi
 - [punal100/get-stuff-done-for-kilocode](https://github.com/punal100/get-stuff-done-for-kilocode) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Kilo Code
+- [accomplish-ai/coworker](https://github.com/accomplish-ai/coworker) - 
 - [Dilden/Ansible-Proxmox-Automation](https://github.com/Dilden/Ansible-Proxmox-Automation) - automating my homelab
 - [OliTechFR/Discovarr](https://github.com/OliTechFR/Discovarr) - A list of all the *arr apps that are out there in the world, like Sonarr, Radarr, etc.
 - [fathulfahmy/aio-usb-drive](https://github.com/fathulfahmy/aio-usb-drive) - Curated collection of useful to have programs on a multiboot USB drive
@@ -552,7 +553,7 @@
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [B00TK1D/copilot-api](https://github.com/B00TK1D/copilot-api) - GitHub Copilot API
 - [ViffyGwaanl/perplexica-pipe](https://github.com/ViffyGwaanl/perplexica-pipe) - Using the Perplexica search API's "pipe" feature, taking inspiration from atgehrhardt's Live Search project.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
@@ -876,6 +877,7 @@
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [deveix/react-native-apple-llm](https://github.com/deveix/react-native-apple-llm) - React Native Apple LLM plugin using Foundation Models
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
@@ -888,6 +890,10 @@
 - [mikker/LeaderKey](https://github.com/mikker/LeaderKey) - The *faster than your launcher* launcher
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
@@ -962,7 +968,6 @@
 - [RafalWilinski/mcp-apple-notes](https://github.com/RafalWilinski/mcp-apple-notes) - Talk with your notes in Claude. RAG over your Apple Notes using Model Context Protocol.
 - [yorkeccak/bio](https://github.com/yorkeccak/bio) - The world's most powerful open-source bio AI assistant - Access academic literature, clinical trials, drug labels, and more, all through natural conversation.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [accomplish-ai/coworker](https://github.com/accomplish-ai/coworker) - Coworker is the open source Al coworker that lives on your desktop
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [foxleigh81/strip-ai](https://github.com/foxleigh81/strip-ai) - A simple tool to replace an em-dash and en-dash marks from content and replace it with sensible characters.
