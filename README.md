@@ -432,7 +432,7 @@
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
-- [stenolabs/stenoai](https://github.com/stenolabs/stenoai) - Steno is the highly secure privacy-first AI notepad & notetaker for all your confidential conversations. On Windows & MacOS. For government and defence sectors.
+- [stenolabs/stenoai](https://github.com/stenolabs/stenoai) - Steno is the highly secure privacy-first AI notepad & notetaker for all your confidential conversations. On Windows & MacOS.
 - [netplexflix/Upcoming-Movies-TV-Shows-for-Kometa](https://github.com/netplexflix/Upcoming-Movies-TV-Shows-for-Kometa) - Create 'Coming Soon' collection and overlay .yml files to be used by Kometa for content being downloaded within x days by Radarr/Sonarr
 - [I-am-PUID-0/NeutArr](https://github.com/I-am-PUID-0/NeutArr) - Automated missing media hunter and quality upgrader for *arr apps.
 - [Avnsh1111/Instagram-Reels-Scraper-Auto-Poster](https://github.com/Avnsh1111/Instagram-Reels-Scraper-Auto-Poster) - Reels-AutoPilot: Reels-AutoPilot is a powerful GitHub repository that scrapes reels from specified Instagram accounts and automatically posts them to your account. Keep up with the latest content from
@@ -889,7 +889,7 @@
 - [alinuxpengui/Macabolic](https://github.com/alinuxpengui/Macabolic) - A video and audio downloader for MacOS
 - [o1xhack/CodexBar-Mobile](https://github.com/o1xhack/CodexBar-Mobile) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [Intentify-app/Intentify](https://github.com/Intentify-app/Intentify) - Extends Spotlight by running JavaScript.
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
 - [JuliusBrussee/revu-swift](https://github.com/JuliusBrussee/revu-swift) - Local-first macOS study app with FSRS review, decks, study guides, exams, import/export, and a polished SwiftUI desktop interface.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
