@@ -124,6 +124,7 @@
 
 ## Go 
 
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [kaitranntt/CLIProxyAPIPlus](https://github.com/kaitranntt/CLIProxyAPIPlus) - CCS-maintained fork of CLIProxyAPIPlus (MIT snapshot, Apr 2026) with daily auto-sync from router-for-me/CLIProxyAPI. See plans for context.
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -229,6 +230,7 @@
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - MOVED to jsonresume/jsonresume.org (packages/schema) — npm @jsonresume/schema unchanged
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
+- [figranium/figranium](https://github.com/figranium/figranium) - Stack blocks visually to build complex browser workflows and execute them via API
 - [flowagi-eu/nyno](https://github.com/flowagi-eu/nyno) - Nyno is a Commercial-Friendly EU-AI Workflow Builder & Engine. https://nyno.dev | Create and Run Workflows without Commercial Limits. Async. Multi-Process. Postgres database. Short for "nine" / "yaml"
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [renovatebot/renovate-approve-bot](https://github.com/renovatebot/renovate-approve-bot) - 
@@ -658,7 +660,7 @@
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable Multi-Agent Orchestration Framework
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Born as an AI web agent that applied to jobs in bulk. Becoming a general one: an agent you point at the web and tell what to do.
+- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser MCP for Claude Code and Gemini CLI.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
@@ -741,6 +743,7 @@
 
 ## Rust 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
@@ -935,7 +938,7 @@
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Drop your tokens. Ultrawork. Done.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [crawlseo/crawlseo](https://github.com/crawlseo/crawlseo) - Open-source SEO monitoring. GSC + Site Crawler + Core Web Vitals in one dashboard.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
@@ -1004,7 +1007,6 @@
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your private data. Local-first privacy proxy for browser chat, AI APIs, and coding agents.
 - [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
-- [figranium/figranium](https://github.com/figranium/figranium) - Stack blocks visually to build complex browser workflows and execute them via API
 - [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
