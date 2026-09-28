@@ -231,6 +231,7 @@
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - MOVED to jsonresume/jsonresume.org (packages/schema) — npm @jsonresume/schema unchanged
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [flowagi-eu/nyno](https://github.com/flowagi-eu/nyno) - Nyno is a Commercial-Friendly EU-AI Workflow Builder & Engine. https://nyno.dev | Create and Run Workflows without Commercial Limits. Async. Multi-Process. Postgres database. Short for "nine" / "yaml"
+- [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [renovatebot/renovate-approve-bot](https://github.com/renovatebot/renovate-approve-bot) - 
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
@@ -410,7 +411,7 @@
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [Nasogaa/immich-drop](https://github.com/Nasogaa/immich-drop) - A tiny, zero-login web app for collecting photos/videos from anyone into your Immich server.
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
 - [cactus-compute/needle](https://github.com/cactus-compute/needle) - Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.
 - [Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner) - Cleanup your gmail | delete, mark as read, unsubsribe from uncessary things u dont like
 - [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) - Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Apple MLX + Python, no cloud, no patient data leaving your network.
@@ -470,7 +471,7 @@
 - [av1155/houndarr](https://github.com/av1155/houndarr) - Self-hosted *arr companion for controlled missing, cutoff, and upgrade searches.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [elfhosted/newtarr](https://github.com/elfhosted/newtarr) - A sane fork of Huntarr v6.6.3 from simpler times
-- [ManiMatter/decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr, readarr and whisparr download queues and removes downloads if they become stalled or no longer needed.
+- [ManiMatter/decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr, readarr, whisparr and sportarr download queues and removes downloads if they become stalled or no longer needed.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent harness to make your slop code well-engineered and beautiful.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
@@ -866,7 +867,7 @@
 - [cbrherms/docker-media-scripts](https://github.com/cbrherms/docker-media-scripts) - Dockerised chazlarson/Media-Scripts
 - [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Interactive or unattended with notifications, image backups, autoprune, no pre-pulling and more.
 - [rcodehub/unraid-plex-script](https://github.com/rcodehub/unraid-plex-script) - A custom user script for Unraid to optionally back up essential Plex data only or a full backup of all Plex data.
-- [Erreur32/nginx-proxy-manager-Bash-API](https://github.com/Erreur32/nginx-proxy-manager-Bash-API) - This BASH script enables the management of Nginx Proxy Manager through its API.
+- [Erreur32/nginx-proxy-manager-Bash-API](https://github.com/Erreur32/nginx-proxy-manager-Bash-API) - Bash CLI for Nginx Proxy Manager: manage proxy/redirect/stream/404 hosts, SSL certs (Let's Encrypt, wildcard DNS), ACLs & users via the NPM API. JSON output, auto token, backups.
 - [DavidKrGH/BackupScript](https://github.com/DavidKrGH/BackupScript) - [Deprecated] Superseded by Dockkeep — https://github.com/DavidKrGH/Dockkeep
 - [88lex/sa-gen](https://github.com/88lex/sa-gen) - Create projects, service accounts, jsons and a group list in csv using gcloud sdk
 - [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
@@ -1018,7 +1019,6 @@
 - [figranium/figranium](https://github.com/figranium/figranium) - Stack blocks visually to build complex browser workflows and execute them via API
 - [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
-- [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire) - Local-first, open-source AI assistant for your data. Unify tasks, notes, docs, photos, and bookmarks. Private, self-hosted, and extensible via APIs.
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 - [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over HTTP streamable, SSE and SSE over stdio. AI gateway.
@@ -1091,6 +1091,7 @@
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
+- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [Willena/immich-tools](https://github.com/Willena/immich-tools) - Collections of command line tools to be used with immich
 - [immich-power-tools/immich-power-tools](https://github.com/immich-power-tools/immich-power-tools) - Power tools for organizing your immich library
@@ -1136,7 +1137,6 @@
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [caddymanager/caddymanager](https://github.com/caddymanager/caddymanager) - Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
-- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
 - [Lynx-Shortener/Lynx](https://github.com/Lynx-Shortener/Lynx) - A fullstack application using the MEVN stack to shorten your URLs.
 - [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
 
