@@ -1214,7 +1214,7 @@
 - [TheBadFella/Pinchflat-NGX](https://github.com/TheBadFella/Pinchflat-NGX) - An enhanced, self-hosted YouTube media manager built on Pinchflat with Material 3 AMOLED UI, PostgreSQL support, OIDC SSO, and disk staging.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [guillevc/yubal](https://github.com/guillevc/yubal) - Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync.
 - [av1155/houndarr](https://github.com/av1155/houndarr) - Self-hosted *arr companion for controlled missing, cutoff, and upgrade searches.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
@@ -1435,7 +1435,7 @@
 ## go 
 
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
@@ -1916,7 +1916,7 @@
 
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [Grey-Iris/easy-notion-mcp](https://github.com/Grey-Iris/easy-notion-mcp) - Markdown-first Notion MCP server. ~6-7x fewer response tokens vs official Notion MCP. 43 tools.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [yamlresume/yamlresume](https://github.com/yamlresume/yamlresume) - Resumes as code in YAML, brought to you with ❤️ by PPResume.
@@ -2147,6 +2147,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Connect Your Agents And Harnesses With Any Provider 🦚
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [DadaNanjesha/AI-content-detector-Humanizer](https://github.com/DadaNanjesha/AI-content-detector-Humanizer) - A comprehensive web application that detects AI-generated content in PDF documents and transforms AI text into natural human-like writing. Built with Streamlit, spaCy, and Hugging Face transformers.
 - [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire) - Local-first, open-source AI assistant for your data. Unify tasks, notes, docs, photos, and bookmarks. Private, self-hosted, and extensible via APIs.
@@ -2918,7 +2919,7 @@
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [jipraks/yt-short-clipper](https://github.com/jipraks/yt-short-clipper) - Windows desktop app that turns long-form YouTube videos into 9:16 short-form clips — AI highlight detection, face-tracking portrait reframe, and word-by-word captions.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [pdfme/pdfme](https://github.com/pdfme/pdfme) - Open-source PDF generation library built with TypeScript and React. Features a WYSIWYG template designer, PDF viewer, and powerful generation capabilities. Create custom PDFs effortlessly in both brow
 - [foxleigh81/strip-ai](https://github.com/foxleigh81/strip-ai) - A simple tool to replace an em-dash and en-dash marks from content and replace it with sensible characters.
@@ -3054,7 +3055,7 @@
 - [zosmaai/zosma-cowork](https://github.com/zosmaai/zosma-cowork) - A web-based AI workspace with a local execution daemon, with an emerging control-plane architecture for remotely operating AI coworkers across machines.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [ph1losof/flashbang](https://github.com/ph1losof/flashbang) - Unduck done right: zero-deps, sub-1ms DuckDuckGo-style bang/snap redirector with 14,000+ DDG/Kagi/custom bangs, address bar autocomplete, no tracking.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [tess1o/geopulse](https://github.com/tess1o/geopulse) - A self-hosted, privacy-first location timeline platform: an open-source alternative to Google Timeline with automatic trip detection, Immich integration, and rich analytics.
 - [guillevc/yubal](https://github.com/guillevc/yubal) - Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync.
 - [av1155/houndarr](https://github.com/av1155/houndarr) - Self-hosted *arr companion for controlled missing, cutoff, and upgrade searches.
@@ -3169,7 +3170,7 @@
 - [Avnsh1111/Instagram-Reels-Scraper-Auto-Poster](https://github.com/Avnsh1111/Instagram-Reels-Scraper-Auto-Poster) - Reels-AutoPilot: Reels-AutoPilot is a powerful GitHub repository that scrapes reels from specified Instagram accounts and automatically posts them to your account. Keep up with the latest content from
 - [Classic298/prune-open-webui](https://github.com/Classic298/prune-open-webui) - 🧹 An automizable or interactive pruning tool for Open WebUI: clean up orphaned files, old chats, inactive users, stale vector data and more!
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 
