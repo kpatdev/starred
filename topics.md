@@ -844,6 +844,7 @@
 ## chrome-extension 
 
 - [magicelk235/Viaduct-CLI](https://github.com/magicelk235/Viaduct-CLI) - A command-line tool that converts a Google Chrome extension into a Safari Web Extension
+- [Stocist/Tailtab](https://github.com/Stocist/Tailtab) - A Tailscale node for each browser profile.
 - [opentabs-dev/opentabs](https://github.com/opentabs-dev/opentabs) - Browser automation clicks buttons. OpenTabs calls APIs.
 - [thepersonalaicompany/amurex](https://github.com/thepersonalaicompany/amurex) - World's first AI meeting copilot → The Invisible Companion for Work + Life
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
@@ -1259,7 +1260,7 @@
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
-- [stevezau/media_preview_generator](https://github.com/stevezau/media_preview_generator) - Self-hosted, GPU-accelerated preview thumbnails and Skip Intro/Credits detection for Plex, Emby and Jellyfin. Starts the moment Sonarr or Radarr imports a file.
+- [stevezau/media_preview_generator](https://github.com/stevezau/media_preview_generator) - Self-hosted previews, intro/credits detection and cross-server reuse for Plex, Emby and Jellyfin, with GPU acceleration and remote processing. Includes Plex chapter thumbnails and CPU loudness analysi
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [jamess60/containercleaner](https://github.com/jamess60/containercleaner) - ContainerCleaner is a tool for automatically updating compose file containers/images and removing unsed images.
@@ -1436,6 +1437,7 @@
 
 ## go 
 
+- [Stocist/Tailtab](https://github.com/Stocist/Tailtab) - A Tailscale node for each browser profile.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -2268,7 +2270,6 @@
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [ghaida/intent](https://github.com/ghaida/intent) - Design with Intent: A collection of specialized AI agents and skills for experience design and strategy.
 - [Nasogaa/immich-drop](https://github.com/Nasogaa/immich-drop) - A tiny, zero-login web app for collecting photos/videos from anyone into your Immich server.
-- [Stocist/Tailtab](https://github.com/Stocist/Tailtab) - A Tailscale node for each browser profile.
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key
@@ -3113,7 +3114,7 @@
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
-- [stevezau/media_preview_generator](https://github.com/stevezau/media_preview_generator) - Self-hosted, GPU-accelerated preview thumbnails and Skip Intro/Credits detection for Plex, Emby and Jellyfin. Starts the moment Sonarr or Radarr imports a file.
+- [stevezau/media_preview_generator](https://github.com/stevezau/media_preview_generator) - Self-hosted previews, intro/credits detection and cross-server reuse for Plex, Emby and Jellyfin, with GPU acceleration and remote processing. Includes Plex chapter thumbnails and CPU loudness analysi
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
