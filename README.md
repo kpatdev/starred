@@ -615,7 +615,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
-- [stevezau/media_preview_generator](https://github.com/stevezau/media_preview_generator) - Self-hosted, GPU-accelerated preview thumbnails and Skip Intro/Credits detection for Plex, Emby and Jellyfin. Starts the moment Sonarr or Radarr imports a file.
+- [stevezau/media_preview_generator](https://github.com/stevezau/media_preview_generator) - Self-hosted previews, intro/credits detection and cross-server reuse for Plex, Emby and Jellyfin, with GPU acceleration and remote processing. Includes Plex chapter thumbnails and CPU loudness analysi
 - [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
