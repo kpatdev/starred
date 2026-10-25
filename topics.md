@@ -74,6 +74,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -114,6 +115,7 @@
 - [image-processing](#image-processing)
 - [instagram](#instagram)
 - [ios](#ios)
+- [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
 - [jenkins](#jenkins)
@@ -1243,7 +1245,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [TheBadFella/Pinchflat-NGX](https://github.com/TheBadFella/Pinchflat-NGX) - An enhanced, self-hosted YouTube media manager built on Pinchflat with Material design UI, PostgreSQL support, OIDC SSO, and disk staging.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage your content. Functions similarly to See
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [tess1o/geopulse](https://github.com/tess1o/geopulse) - A self-hosted location timeline platform and Google Timeline alternative. Lightweight, features automatic trip detection, rich analytics, and Immich integration.
 - [guillevc/yubal](https://github.com/guillevc/yubal) - Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync.
@@ -1320,6 +1322,11 @@
 
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
+
+## downloader 
+
+- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
+- [haridusministeerium/docker-seedbox-rclone-fetch-extract](https://github.com/haridusministeerium/docker-seedbox-rclone-fetch-extract) - Dockerised service pulling data from remote seedbox & extracting archives
 
 ## dsh-plugin 
 
@@ -1484,7 +1491,7 @@
 
 - [DavidCarliez/whiskerlink](https://github.com/DavidCarliez/whiskerlink) - Tailcat GUI for easy file & service sharing
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
-- [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) - smart charging ☀️🚘
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
@@ -1579,6 +1586,7 @@
 
 ## home-assistant 
 
+- [Python-roborock/local_roborock_server](https://github.com/Python-roborock/local_roborock_server) - Local HTTPS and MQTT cloud emulator for Roborock vacuums without rooting or hardware modifications
 - [FI-153/wyoming-apple-speech](https://github.com/FI-153/wyoming-apple-speech) - Speech-To-Text and Text-To-Speech component for Home Assistant using Apple's on-device STT and TTS models and Wyoming protocol. Great performance, full privacy, always available
 - [AlexandrErohin/home-assistant-flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) - Flightradar24 integration for Home Assistant
 - [tess1o/geopulse](https://github.com/tess1o/geopulse) - A self-hosted location timeline platform and Google Timeline alternative. Lightweight, features automatic trip detection, rich analytics, and Immich integration.
@@ -1640,11 +1648,15 @@
 - [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription.
 - [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native iOS and Android client for Open WebUI, direct OpenAI-compatible, Ollama, and Hermes agents.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS/visionOS）
 - [kabiroberai/theos-jailed](https://github.com/kabiroberai/theos-jailed) - A Theos module to develop jailed tweaks for iOS 8 and up
+
+## iot 
+
+- [Python-roborock/local_roborock_server](https://github.com/Python-roborock/local_roborock_server) - Local HTTPS and MQTT cloud emulator for Roborock vacuums without rooting or hardware modifications
 
 ## java 
 
@@ -1918,7 +1930,7 @@
 - [lucid-fabrics/osx-proxmox-next](https://github.com/lucid-fabrics/osx-proxmox-next) - One-command macOS VM on Proxmox 9: TUI wizard, auto-download, AMD + Intel, Sonoma/Sequoia/Tahoe
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
@@ -2396,7 +2408,7 @@
 - [Prismer-AI/Prismer](https://github.com/Prismer-AI/Prismer) - Open Source Research Claw
 - [T3-Content/unduck](https://github.com/T3-Content/unduck) - A fast, local-first "search engine" for !bang users
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - MOVED to jsonresume/jsonresume.org (packages/schema) — npm @jsonresume/schema unchanged
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 5x faster Homebrew client
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 10x faster Homebrew client
 - [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui) - Open CoreUI - A rewritten Open WebUI in Rust, significantly reducing memory and resource usage, requiring no dependency services, no Docker, with both a server version and a Tauri-based desktop client
 - [castai/openwebui-content-sync](https://github.com/castai/openwebui-content-sync) - Tool to maintain syncronization of RAG knowledge for OpenWebUI
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
@@ -2447,7 +2459,7 @@
 - [RichardAtCT/claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) - OpenAI API-compatible wrapper for Claude Code
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
-- [browserbase/stagehand-python](https://github.com/browserbase/stagehand-python) - The AI Browser Automation Framework
+- [browserbase/stagehand-python](https://github.com/browserbase/stagehand-python) - ⚠️ No longer maintained  The official Stagehand Python source has moved here. Documentation can be found here  This version of the Stagehand Python SDK is no longer maintained and will not receive upd
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
@@ -2653,7 +2665,6 @@
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [TobbleCobble/reddit-video-maker](https://github.com/TobbleCobble/reddit-video-maker) - makes TikTok style videos based on reddit posts and comments automatically
 - [BinsonBuzz/unraid_rclone_mount](https://github.com/BinsonBuzz/unraid_rclone_mount) - scripts to create rclone mounts on gdrive
-- [haridusministeerium/docker-seedbox-rclone-fetch-extract](https://github.com/haridusministeerium/docker-seedbox-rclone-fetch-extract) - Dockerised service pulling data from remote seedbox & extracting archives
 - [chazlarson/Media-Scripts](https://github.com/chazlarson/Media-Scripts) - 
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 - [Shayne55434/kometa](https://github.com/Shayne55434/kometa) - My setup for Plex Meta Manager
@@ -2719,7 +2730,7 @@
 - [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire) - Local-first, open-source AI assistant for your data. Unify tasks, notes, docs, photos, and bookmarks. Private, self-hosted, and extensible via APIs.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [karan51ngh/RedditRefresh](https://github.com/karan51ngh/RedditRefresh) - This script allows you to Bulk Delete, Cryptographically Hash, Encrypt or Decrypt your Reddit posts or comments for better privacy and security.
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
@@ -3006,6 +3017,7 @@
 
 ## reverse-engineering 
 
+- [Python-roborock/local_roborock_server](https://github.com/Python-roborock/local_roborock_server) - Local HTTPS and MQTT cloud emulator for Roborock vacuums without rooting or hardware modifications
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
@@ -3094,6 +3106,7 @@
 
 ## self-hosted 
 
+- [Python-roborock/local_roborock_server](https://github.com/Python-roborock/local_roborock_server) - Local HTTPS and MQTT cloud emulator for Roborock vacuums without rooting or hardware modifications
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into a structured API. Extract, automate, search and monitor the web.
 - [dinglebear-ai/yarr](https://github.com/dinglebear-ai/yarr) - Rust MCP and CLI server for media automation fleets: Sonarr, Radarr, Prowlarr, Tautulli, Overseerr, Bazarr, SABnzbd, qBittorrent, Plex, and Jellyfin.
 - [TheBadFella/Pinchflat-NGX](https://github.com/TheBadFella/Pinchflat-NGX) - An enhanced, self-hosted YouTube media manager built on Pinchflat with Material design UI, PostgreSQL support, OIDC SSO, and disk staging.
@@ -3277,7 +3290,7 @@
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription.
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
@@ -3292,7 +3305,7 @@
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [alienator88/Sentinel](https://github.com/alienator88/Sentinel) - Configure Gatekeeper, remove apps from quarantine and self-sign apps
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
@@ -3335,7 +3348,6 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [RoggeOhta/awesome-codex-cli](https://github.com/RoggeOhta/awesome-codex-cli) - Curated list of 150+ tools, skills, subagents & plugins for OpenAI Codex CLI
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job appli
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
@@ -3478,7 +3490,7 @@
 ## userscript 
 
 - [thoughtsunificator/instagram-dm-unsender](https://github.com/thoughtsunificator/instagram-dm-unsender) - Userscript that allows you to mass unsend all your DMs on Instagram
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription.
 - [SylphxAI/Google-Photos-Delete-Tool](https://github.com/SylphxAI/Google-Photos-Delete-Tool) - Google Photos duplicate finder and bulk delete tool: find and delete duplicate photos, bulk delete safely with dry run and empty trash. Chrome extension + userscript, runs in your browser.
 
 ## video 
