@@ -256,7 +256,6 @@
 - [youngcw/actualplaid](https://github.com/youngcw/actualplaid) - Sync your Bank accounts to Actual Budget (unofficial support)
 - [wishthis/wishthis](https://github.com/wishthis/wishthis) - wishthis is a simple, intuitive and modern wishlist platform to create, manage and view your wishes for any kind of occasion.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
-- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [ds2000/homeassistant-fe-tesla](https://github.com/ds2000/homeassistant-fe-tesla) - Tesla FrontEnd for Home Assistant
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv—from the creator of `dotenv`
 - [danrahn/MarkerEditorForPlex](https://github.com/danrahn/MarkerEditorForPlex) - View, edit, add, and delete intro, credits, and commercial markers for your Plex media.
@@ -626,7 +625,7 @@
 - [elebumm/whisper-writer](https://github.com/elebumm/whisper-writer) - 💬📝 A small dictation app using OpenAI's Whisper speech recognition model.
 - [dariox1337/whisper-writer](https://github.com/dariox1337/whisper-writer) - 💬📝 A small dictation app using OpenAI's Whisper speech recognition model.
 - [goodreasonai/ScrapeServ](https://github.com/goodreasonai/ScrapeServ) - A self-hosted API that takes a URL and returns a file with browser screenshots.
-- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
+- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube for TV clients.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents. Join our Discord: https://discord.gg/ejRNvftDp9
@@ -1118,6 +1117,7 @@
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [dendianugerah/velld](https://github.com/dendianugerah/velld) - a database backup management and automation tool
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
