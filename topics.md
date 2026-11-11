@@ -235,6 +235,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [wordpress](#wordpress)
@@ -2416,6 +2417,7 @@
 
 ## others 
 
+- [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) - Enable Hermès Watch Faces on any Apple Watch devices
 - [t3dotgg/tstack](https://github.com/t3dotgg/tstack) - The agent skills I use every day. Works with Claude Code and Codex.
 - [rejig-app/rejig](https://github.com/rejig-app/rejig) - Mac app for arranging your iPhone Home Screen over Wi-Fi or USB, with a change list, backups and readback.
 - [BumpyClock/Cli-Proxy-API-Management-Center](https://github.com/BumpyClock/Cli-Proxy-API-Management-Center) - CCS-maintained CPAMC dashboard fork for CLIProxyAPIPlus management.html releases with upstream sync automation.
@@ -2656,7 +2658,7 @@
 - [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac.
 - [wishthis/docker](https://github.com/wishthis/docker) - wishthis - Official docker image
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
-- [Cirius1792/docker-volume-backup-script](https://github.com/Cirius1792/docker-volume-backup-script) - Simple yet effective bash script to automatically manage backup of docker volumes
+- [cltec/docker-volume-backup-script](https://github.com/cltec/docker-volume-backup-script) - Simple yet effective bash script to automatically manage backup of docker volumes
 - [dendianugerah/velld](https://github.com/dendianugerah/velld) - a database backup management and automation tool
 - [elebumm/whisper-writer](https://github.com/elebumm/whisper-writer) - 💬📝 A small dictation app using OpenAI's Whisper speech recognition model.
 - [dariox1337/whisper-writer](https://github.com/dariox1337/whisper-writer) - 💬📝 A small dictation app using OpenAI's Whisper speech recognition model.
@@ -2977,7 +2979,7 @@
 - [fabriziosalmi/cf-box](https://github.com/fabriziosalmi/cf-box) - cf-box is a set of Python tools to play with API and multiple Cloudflare accounts.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
+- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube for TV clients.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -3688,6 +3690,10 @@
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
+## whatsapp 
+
+- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
+
 ## windows 
 
 - [ChaoticSi1ence/SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo) - Debloat and harden Brave Browser on Linux, macOS, and Windows using Chromium enterprise policies. Curses TUI on Linux/macOS, native GUI on Windows. 79 policies, 6 presets, zero dependencies.
@@ -3741,7 +3747,7 @@
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
-- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
+- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube for TV clients.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 
