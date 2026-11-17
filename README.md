@@ -211,6 +211,7 @@
 
 ## JavaScript 
 
+- [faris-sait/openshorts](https://github.com/faris-sait/openshorts) - AI-powered vertical video generator that turns long YouTube videos or uploads into viral short clips (9:16).
 - [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) - A toolbox of film styles made in code for Claude Code: 99 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Le
 - [MrGo2/icloud-mcp](https://github.com/MrGo2/icloud-mcp) - MCP server for Apple services — Mail, Calendar, Contacts, Reminders, Notes, Messages, Safari — via AppleScript (local) or iCloud IMAP/CalDAV/CardDAV (cloud)
 - [Vaspyyy/PowerDeleteSuite-updated](https://github.com/Vaspyyy/PowerDeleteSuite-updated) - Power Delete Suite for Reddit
@@ -237,6 +238,7 @@
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - MOVED to jsonresume/jsonresume.org (packages/schema) — npm @jsonresume/schema unchanged
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
+- [figranium/figranium](https://github.com/figranium/figranium) - Stack blocks visually to build complex browser workflows and execute them via API
 - [flowagi-eu/nyno](https://github.com/flowagi-eu/nyno) - Nyno is a Commercial-Friendly EU-AI Workflow Builder & Engine. https://nyno.dev | Create and Run Workflows without Commercial Limits. Async. Multi-Process. Postgres database. Short for "nine" / "yaml"
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
@@ -329,6 +331,7 @@
 
 ## Objective-C 
 
+- [kolbicz/WQFiles](https://github.com/kolbicz/WQFiles) - File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)
 - [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) - Enable Hermès Watch Faces on any Apple Watch devices
 - [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
@@ -397,7 +400,7 @@
 - [l4rm4nd/Obsidian-Gitsync-Perlite](https://github.com/l4rm4nd/Obsidian-Gitsync-Perlite) - Docker container to continuously sync Obsidian markdown notes from GitHub and publish it for the webs
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 490+ formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 520+ formats in 26 languages.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 
 ## Pascal 
@@ -520,7 +523,6 @@
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 - [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.
-- [kousha789123/apple-podcast-transcript-save-as-pdf](https://github.com/kousha789123/apple-podcast-transcript-save-as-pdf) - 
 - [mirrorange/clove](https://github.com/mirrorange/clove) - A Claude.ai reverse proxy
 - [CaddyGlow/ccproxy-api](https://github.com/CaddyGlow/ccproxy-api) - is a local reverse proxy providing unified access to multiple AI providers (Claude, Codex) through a single interface, using your existing subscriptions without API key billing.
 - [coleam00/mcp-crawl4ai-rag](https://github.com/coleam00/mcp-crawl4ai-rag) - Web Crawling and RAG Capabilities for AI Agents and AI Coding Assistants
@@ -769,6 +771,7 @@
 
 ## Rust 
 
+- [AdminZachary/WatchBridge](https://github.com/AdminZachary/WatchBridge) - Apple Watch developer mode and Companion app sideloading for Windows, Linux and macOS（no Xcode required）.
 - [elarisbrowser/elaris](https://github.com/elarisbrowser/elaris) - Photon web browser
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
@@ -782,7 +785,7 @@
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor, and any MCP client can query. Meetings, calls, and voice memos transcribed on-device into markdown you own.
-- [zerx-lab/zap](https://github.com/zerx-lab/zap) - Zap is an open, local-first terminal with first-class AI and agent support.
+- [zerx-lab/zap-warp](https://github.com/zerx-lab/zap-warp) - Zap is an open, local-first terminal with first-class AI and agent support.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [vdgmstd/Parsec-Free-Virtual-Display-Plugin-MacOS](https://github.com/vdgmstd/Parsec-Free-Virtual-Display-Plugin-MacOS) - Auto-creates virtual displays when Parsec clients connect. No dummy plugs, no dongles, no paid apps. Menu bar app for headless Mac setups.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
@@ -841,7 +844,7 @@
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
 - [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex hubs
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
 - [shouya/rss-funnel](https://github.com/shouya/rss-funnel) - Self-hosted RSS multi-tool
 - [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -917,7 +920,7 @@
 ## Swift 
 
 - [nano-muse/nanoMuse](https://github.com/nano-muse/nanoMuse) - nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before an
-- [jfarcand/mirroir-mcp](https://github.com/jfarcand/mirroir-mcp) - Drive a real, stock iPhone (and any macOS app) from any MCP client via iPhone Mirroring — no Developer Mode, no Xcode, no WebDriverAgent. Tap, swipe, type, OCR, plus replayable AI-authored test skills
+- [jfarcand/mirroir-mcp](https://github.com/jfarcand/mirroir-mcp) - Let your agent use your real iPhone: errands across your apps, automations, even games. Works from any MCP client through macOS iPhone Mirroring. No Developer Mode, no Xcode, no jailbreak.
 - [darfink/cliproxybar](https://github.com/darfink/cliproxybar) - A standalone macOS menu bar app for local CLIProxyAPI quotas.
 - [xuan-wei/CLIProxyAPI-QuotaMenu](https://github.com/xuan-wei/CLIProxyAPI-QuotaMenu) - Native macOS menu bar app for monitoring API quota usage across AI providers (Claude, Codex, Gemini, Kimi), powered by CLIProxyAPI
 - [openclaw/remindctl](https://github.com/openclaw/remindctl) - cli for Apple Reminders app
@@ -962,7 +965,7 @@
 - [nightly-labs/openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
 - [gpulga/ableton-dj-mcp](https://github.com/gpulga/ableton-dj-mcp) - MCP server for AI-assisted electronic music production in Ableton Live
 - [BumpyClock/Cli-Proxy-API-Management-Center](https://github.com/BumpyClock/Cli-Proxy-API-Management-Center) - CCS-maintained CPAMC dashboard fork for CLIProxyAPIPlus management.html releases with upstream sync automation.
-- [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) - Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+- [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) - The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into a structured API. Extract, automate, search and monitor the web.
@@ -1056,7 +1059,6 @@
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your private data. Local-first privacy proxy for browser chat, AI APIs, and coding agents.
 - [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
-- [figranium/figranium](https://github.com/figranium/figranium) - Stack blocks visually to build complex browser workflows and execute them via API
 - [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire) - Local-first, open-source AI assistant for your data. Unify tasks, notes, docs, photos, and bookmarks. Private, self-hosted, and extensible via APIs.
